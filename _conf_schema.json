@@ -1,0 +1,32 @@
+{
+    "api_base_url": {
+        "type": "string",
+        "default": "http://localhost:8686",
+        "description": "自建 API 地址",
+        "hint": "SocialClub Query 服务的地址，默认本机 8686 端口。可改为远程地址。"
+    },
+    "plugin_log_enabled": {
+        "type": "bool",
+        "default": false,
+        "description": "启用插件信息日志",
+        "hint": "关闭后将减少 info 级日志输出（warning/error 仍会输出）。"
+    },
+    "battleye_server_host": {
+        "type": "string",
+        "default": "51.89.97.102",
+        "description": "BattlEye 服务器地址",
+        "hint": "用于战眼查询的 UDP 服务器地址。"
+    },
+    "battleye_server_port": {
+        "type": "int",
+        "default": 61455,
+        "description": "BattlEye 服务器端口",
+        "hint": "用于战眼查询的 UDP 端口。"
+    },
+    "battleye_timeout_seconds": {
+        "type": "int",
+        "default": 5,
+        "description": "战眼查询超时（秒）",
+        "hint": "单次 UDP 查询等待时间，建议 3-15 秒。"
+    }
+}

@@ -1,0 +1,6 @@
+name: astrbot_plugin_vaultbot
+display_name: VaultBot - GTA 玩家查询
+desc: GTA 线上玩家数据查询：等级/金钱/240项生涯统计/异常检测/奖章查询/玩家PK。自建 REST API 优先，空桑HQSHI回退。
+version: v1.0.0
+author: nloolpplooln
+repo: https://github.com/nloolpplooln/astrbot_plugin_vaultbot
