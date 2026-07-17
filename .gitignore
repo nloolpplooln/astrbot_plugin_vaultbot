@@ -1,9 +1,10 @@
 __pycache__/
 *.pyc
 *.pyo
-data/socialclub.db
-data/browser_profile/
-data/screenshots/
+data/*
+!data/.gitkeep
 *.db-shm
 *.db-wal
 .DS_Store
+login_debug.py
+login_curl.py
