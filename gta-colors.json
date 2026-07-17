@@ -1,0 +1,5655 @@
+{
+  "colors": [
+    {
+      "id": 0,
+      "name_cn": "黑色",
+      "name_en": "Metallic Black",
+      "category": "Metallic",
+      "hex": "#080808",
+      "rgb": {
+        "r": 8,
+        "g": 8,
+        "b": 8
+      },
+      "texture": "Util2",
+      "technical": "Metallic Black",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 840,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#080808!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-0.png/800px-Carcol-GTAV-0.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-0.png/200px-Carcol-GTAV-0.png"
+    },
+    {
+      "id": 1,
+      "name_cn": "墨黑色",
+      "name_en": "Metallic Graphite Black",
+      "category": "Metallic",
+      "hex": "#0F0F0F",
+      "rgb": {
+        "r": 15,
+        "g": 15,
+        "b": 15
+      },
+      "texture": "Util2",
+      "technical": "Metallic Graphite Black",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 790,
+      "unlock": "等级 7",
+      "notes": "",
+      "gradient": "#0F0F0F!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-1.png/800px-Carcol-GTAV-1.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-1.png/200px-Carcol-GTAV-1.png"
+    },
+    {
+      "id": 2,
+      "name_cn": "黑钢色",
+      "name_en": "Metallic Black Steal",
+      "category": "Metallic",
+      "hex": "#1C1E21",
+      "rgb": {
+        "r": 28,
+        "g": 30,
+        "b": 33
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Black Steal",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 860,
+      "unlock": "等级 7",
+      "notes": "",
+      "gradient": "#1C1E21!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-2.png/800px-Carcol-GTAV-2.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-2.png/200px-Carcol-GTAV-2.png"
+    },
+    {
+      "id": 3,
+      "name_cn": "深钢色",
+      "name_en": "Metallic Dark Silver",
+      "category": "Metallic",
+      "hex": "#292C2E",
+      "rgb": {
+        "r": 41,
+        "g": 44,
+        "b": 46
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Dark Silver",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#292C2E!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-3.png/800px-Carcol-GTAV-3.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-3.png/200px-Carcol-GTAV-3.png"
+    },
+    {
+      "id": 4,
+      "name_cn": "银色",
+      "name_en": "Metallic Silver",
+      "category": "Metallic",
+      "hex": "#5A5E66",
+      "rgb": {
+        "r": 90,
+        "g": 94,
+        "b": 102
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Silver",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 820,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#5A5E66!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-4.png/800px-Carcol-GTAV-4.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-4.png/200px-Carcol-GTAV-4.png"
+    },
+    {
+      "id": 5,
+      "name_cn": "蓝光银",
+      "name_en": "Metallic Blue Silver",
+      "category": "Metallic",
+      "hex": "#777C87",
+      "rgb": {
+        "r": 119,
+        "g": 124,
+        "b": 135
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Blue Silver",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 800,
+      "unlock": "等级 9",
+      "notes": "",
+      "gradient": "#777C87!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-5.png/800px-Carcol-GTAV-5.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-5.png/200px-Carcol-GTAV-5.png"
+    },
+    {
+      "id": 6,
+      "name_cn": "白钢色",
+      "name_en": "Metallic Steel Gray",
+      "category": "Metallic",
+      "hex": "#515459",
+      "rgb": {
+        "r": 81,
+        "g": 84,
+        "b": 89
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Steel Gray",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 780,
+      "unlock": "等级 9",
+      "notes": "",
+      "gradient": "#515459!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-6.png/800px-Carcol-GTAV-6.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-6.png/200px-Carcol-GTAV-6.png"
+    },
+    {
+      "id": 7,
+      "name_cn": "幽灵银",
+      "name_en": "Metallic Shadow Silver",
+      "category": "Metallic",
+      "hex": "#323B47",
+      "rgb": {
+        "r": 50,
+        "g": 59,
+        "b": 71
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Shadow Silver",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 860,
+      "unlock": "等级 9",
+      "notes": "",
+      "gradient": "#323B47!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-7.png/800px-Carcol-GTAV-7.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-7.png/200px-Carcol-GTAV-7.png"
+    },
+    {
+      "id": 8,
+      "name_cn": "石银色",
+      "name_en": "Metallic Stone Silver",
+      "category": "Metallic",
+      "hex": "#333333",
+      "rgb": {
+        "r": 51,
+        "g": 51,
+        "b": 51
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Stone Silver",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 870,
+      "unlock": "10 场赛车胜场",
+      "notes": "",
+      "gradient": "#333333!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-8.png/800px-Carcol-GTAV-8.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-8.png/200px-Carcol-GTAV-8.png"
+    },
+    {
+      "id": 9,
+      "name_cn": "午夜银",
+      "name_en": "Metallic Midnight Silver",
+      "category": "Metallic",
+      "hex": "#1F2226",
+      "rgb": {
+        "r": 31,
+        "g": 34,
+        "b": 38
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Midnight Silver",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 900,
+      "unlock": "等级 9",
+      "notes": "",
+      "gradient": "#1F2226!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-9.png/800px-Carcol-GTAV-9.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-9.png/200px-Carcol-GTAV-9.png"
+    },
+    {
+      "id": 10,
+      "name_cn": "铸铁银",
+      "name_en": "Metallic Gun Metal",
+      "category": "Metallic",
+      "hex": "#23292E",
+      "rgb": {
+        "r": 35,
+        "g": 41,
+        "b": 46
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Gun Metal",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 880,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#23292E!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-10.png/800px-Carcol-GTAV-10.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-10.png/200px-Carcol-GTAV-10.png"
+    },
+    {
+      "id": 11,
+      "name_cn": "煤黑色",
+      "name_en": "Metallic Anthracite Grey",
+      "category": "Metallic",
+      "hex": "#121110",
+      "rgb": {
+        "r": 18,
+        "g": 17,
+        "b": 16
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Anthracite Grey",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 830,
+      "unlock": "等级 7",
+      "notes": "",
+      "gradient": "#121110!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-11.png/800px-Carcol-GTAV-11.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-11.png/200px-Carcol-GTAV-11.png"
+    },
+    {
+      "id": 12,
+      "name_cn": "黑色",
+      "name_en": "Matte Black",
+      "category": "Matte",
+      "hex": "#050505",
+      "rgb": {
+        "r": 5,
+        "g": 5,
+        "b": 5
+      },
+      "texture": "Matte",
+      "technical": "Matte Black",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 2200,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#050505!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-12.png/800px-Carcol-GTAV-12.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-12.png/200px-Carcol-GTAV-12.png"
+    },
+    {
+      "id": 13,
+      "name_cn": "灰色",
+      "name_en": "Matte Gray",
+      "category": "Matte",
+      "hex": "#121212",
+      "rgb": {
+        "r": 18,
+        "g": 18,
+        "b": 18
+      },
+      "texture": "Matte",
+      "technical": "Matte Gray",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 2050,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#121212!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-13.png/800px-Carcol-GTAV-13.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-13.png/200px-Carcol-GTAV-13.png"
+    },
+    {
+      "id": 14,
+      "name_cn": "浅灰色",
+      "name_en": "Matte Light Grey",
+      "category": "Matte",
+      "hex": "#2F3233",
+      "rgb": {
+        "r": 47,
+        "g": 50,
+        "b": 51
+      },
+      "texture": "Matte",
+      "technical": "Matte Light Grey",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 2000,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#2F3233!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-14.png/800px-Carcol-GTAV-14.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-14.png/200px-Carcol-GTAV-14.png"
+    },
+    {
+      "id": 15,
+      "name_cn": "黑色",
+      "name_en": "Util Black",
+      "category": "Util",
+      "hex": "#080808",
+      "rgb": {
+        "r": 8,
+        "g": 8,
+        "b": 8
+      },
+      "texture": "Utility",
+      "technical": "Util Black",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#080808!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-15.png/800px-Carcol-GTAV-15.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-15.png/200px-Carcol-GTAV-15.png"
+    },
+    {
+      "id": 16,
+      "name_cn": "塑料黑",
+      "name_en": "Util Black Poly",
+      "category": "Util",
+      "hex": "#121212",
+      "rgb": {
+        "r": 18,
+        "g": 18,
+        "b": 18
+      },
+      "texture": "Utility",
+      "technical": "Util Black Poly",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#121212!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-16.png/800px-Carcol-GTAV-16.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-16.png/200px-Carcol-GTAV-16.png"
+    },
+    {
+      "id": 17,
+      "name_cn": "深银色",
+      "name_en": "Util Dark silver",
+      "category": "Util",
+      "hex": "#202224",
+      "rgb": {
+        "r": 32,
+        "g": 34,
+        "b": 36
+      },
+      "texture": "Utility",
+      "technical": "Util Dark silver",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#202224!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-17.png/800px-Carcol-GTAV-17.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-17.png/200px-Carcol-GTAV-17.png"
+    },
+    {
+      "id": 18,
+      "name_cn": "银色",
+      "name_en": "Util Silver",
+      "category": "Util",
+      "hex": "#575961",
+      "rgb": {
+        "r": 87,
+        "g": 89,
+        "b": 97
+      },
+      "texture": "Utility",
+      "technical": "Util Silver",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#575961!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-18.png/800px-Carcol-GTAV-18.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-18.png/200px-Carcol-GTAV-18.png"
+    },
+    {
+      "id": 19,
+      "name_cn": "铸铁银",
+      "name_en": "Util Gun Metal",
+      "category": "Util",
+      "hex": "#23292E",
+      "rgb": {
+        "r": 35,
+        "g": 41,
+        "b": 46
+      },
+      "texture": "Utility",
+      "technical": "Util Gun Metal",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#23292E!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-19.png/800px-Carcol-GTAV-19.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-19.png/200px-Carcol-GTAV-19.png"
+    },
+    {
+      "id": 20,
+      "name_cn": "幽灵银",
+      "name_en": "Util Shadow Silver",
+      "category": "Util",
+      "hex": "#323B47",
+      "rgb": {
+        "r": 50,
+        "g": 59,
+        "b": 71
+      },
+      "texture": "Utility",
+      "technical": "Util Shadow Silver",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#323B47!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-20.png/800px-Carcol-GTAV-20.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-20.png/200px-Carcol-GTAV-20.png"
+    },
+    {
+      "id": 21,
+      "name_cn": "黑色",
+      "name_en": "Worn Black",
+      "category": "Worn",
+      "hex": "#0F1012",
+      "rgb": {
+        "r": 15,
+        "g": 16,
+        "b": 18
+      },
+      "texture": "Worn",
+      "technical": "Worn Black",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#0F1012!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-21.png/800px-Carcol-GTAV-21.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-21.png/200px-Carcol-GTAV-21.png"
+    },
+    {
+      "id": 22,
+      "name_cn": "深灰色",
+      "name_en": "Worn Graphite",
+      "category": "Worn",
+      "hex": "#212121",
+      "rgb": {
+        "r": 33,
+        "g": 33,
+        "b": 33
+      },
+      "texture": "Worn",
+      "technical": "Worn Graphite",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#212121!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-22.png/800px-Carcol-GTAV-22.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-22.png/200px-Carcol-GTAV-22.png"
+    },
+    {
+      "id": 23,
+      "name_cn": "银灰色",
+      "name_en": "Worn Silver Grey",
+      "category": "Worn",
+      "hex": "#5B5D5E",
+      "rgb": {
+        "r": 91,
+        "g": 93,
+        "b": 94
+      },
+      "texture": "Worn",
+      "technical": "Worn Silver Grey",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#5B5D5E!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-23.png/800px-Carcol-GTAV-23.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-23.png/200px-Carcol-GTAV-23.png"
+    },
+    {
+      "id": 24,
+      "name_cn": "银色",
+      "name_en": "Worn Silver",
+      "category": "Worn",
+      "hex": "#888A99",
+      "rgb": {
+        "r": 136,
+        "g": 138,
+        "b": 153
+      },
+      "texture": "Worn",
+      "technical": "Worn Silver",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#888A99!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-24.png/800px-Carcol-GTAV-24.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-24.png/200px-Carcol-GTAV-24.png"
+    },
+    {
+      "id": 25,
+      "name_cn": "蓝光银",
+      "name_en": "Worn Blue Silver",
+      "category": "Worn",
+      "hex": "#697187",
+      "rgb": {
+        "r": 105,
+        "g": 113,
+        "b": 135
+      },
+      "texture": "Worn",
+      "technical": "Worn Blue Silver",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#697187!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-25.png/800px-Carcol-GTAV-25.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-25.png/200px-Carcol-GTAV-25.png"
+    },
+    {
+      "id": 26,
+      "name_cn": "幽灵银",
+      "name_en": "Worn  Shadow Silver",
+      "category": "Worn",
+      "hex": "#3B4654",
+      "rgb": {
+        "r": 59,
+        "g": 70,
+        "b": 84
+      },
+      "texture": "Worn",
+      "technical": "Worn  Shadow Silver",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#3B4654!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-26.png/800px-Carcol-GTAV-26.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-26.png/200px-Carcol-GTAV-26.png"
+    },
+    {
+      "id": 27,
+      "name_cn": "红色",
+      "name_en": "Metallic Red",
+      "category": "Metallic",
+      "hex": "#690000",
+      "rgb": {
+        "r": 105,
+        "g": 0,
+        "b": 0
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Red",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 920,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#690000!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-27.png/800px-Carcol-GTAV-27.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-27.png/200px-Carcol-GTAV-27.png"
+    },
+    {
+      "id": 28,
+      "name_cn": "都灵红",
+      "name_en": "Metallic Torino Red",
+      "category": "Metallic",
+      "hex": "#8A0B00",
+      "rgb": {
+        "r": 138,
+        "g": 11,
+        "b": 0
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Torino Red",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 5600,
+      "unlock": "等级 11",
+      "notes": "",
+      "gradient": "#8A0B00!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-28.png/800px-Carcol-GTAV-28.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-28.png/200px-Carcol-GTAV-28.png"
+    },
+    {
+      "id": 29,
+      "name_cn": "方程式红",
+      "name_en": "Metallic Formula Red",
+      "category": "Metallic",
+      "hex": "#6B0000",
+      "rgb": {
+        "r": 107,
+        "g": 0,
+        "b": 0
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Formula Red",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 5200,
+      "unlock": "等级 11",
+      "notes": "",
+      "gradient": "#6B0000!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-29.png/800px-Carcol-GTAV-29.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-29.png/200px-Carcol-GTAV-29.png"
+    },
+    {
+      "id": 30,
+      "name_cn": "烈焰红",
+      "name_en": "Metallic Blaze Red",
+      "category": "Metallic",
+      "hex": "#611009",
+      "rgb": {
+        "r": 97,
+        "g": 16,
+        "b": 9
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Blaze Red",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 3800,
+      "unlock": "等级 11",
+      "notes": "",
+      "gradient": "#611009!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-30.png/800px-Carcol-GTAV-30.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-30.png/200px-Carcol-GTAV-30.png"
+    },
+    {
+      "id": 31,
+      "name_cn": "优雅红",
+      "name_en": "Metallic Graceful Red",
+      "category": "Metallic",
+      "hex": "#4A0A0A",
+      "rgb": {
+        "r": 74,
+        "g": 10,
+        "b": 10
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Graceful Red",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 950,
+      "unlock": "等级 11",
+      "notes": "",
+      "gradient": "#4A0A0A!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-31.png/800px-Carcol-GTAV-31.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-31.png/200px-Carcol-GTAV-31.png"
+    },
+    {
+      "id": 32,
+      "name_cn": "石榴红",
+      "name_en": "Metallic Garnet Red",
+      "category": "Metallic",
+      "hex": "#470E0E",
+      "rgb": {
+        "r": 71,
+        "g": 14,
+        "b": 14
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Garnet Red",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 890,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#470E0E!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-32.png/800px-Carcol-GTAV-32.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-32.png/200px-Carcol-GTAV-32.png"
+    },
+    {
+      "id": 33,
+      "name_cn": "落日红",
+      "name_en": "Metallic Desert Red",
+      "category": "Metallic",
+      "hex": "#380C00",
+      "rgb": {
+        "r": 56,
+        "g": 12,
+        "b": 0
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Desert Red",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 10600,
+      "unlock": "等级 13",
+      "notes": "",
+      "gradient": "#380C00!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-33.png/800px-Carcol-GTAV-33.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-33.png/200px-Carcol-GTAV-33.png"
+    },
+    {
+      "id": 34,
+      "name_cn": "葡萄酒红",
+      "name_en": "Metallic Cabernet Red",
+      "category": "Metallic",
+      "hex": "#26030B",
+      "rgb": {
+        "r": 38,
+        "g": 3,
+        "b": 11
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Cabernet Red",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 9600,
+      "unlock": "25 次尾流",
+      "notes": "",
+      "gradient": "#26030B!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-34.png/800px-Carcol-GTAV-34.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-34.png/200px-Carcol-GTAV-34.png"
+    },
+    {
+      "id": 35,
+      "name_cn": "糖果红",
+      "name_en": "Metallic Candy Red",
+      "category": "Metallic",
+      "hex": "#630012",
+      "rgb": {
+        "r": 99,
+        "g": 0,
+        "b": 18
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Candy Red",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 12150,
+      "unlock": "50 次最快单圈",
+      "notes": "",
+      "gradient": "#630012!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-35.png/800px-Carcol-GTAV-35.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-35.png/200px-Carcol-GTAV-35.png"
+    },
+    {
+      "id": 36,
+      "name_cn": "日出橙",
+      "name_en": "Metallic Sunrise Orange",
+      "category": "Metallic",
+      "hex": "#802800",
+      "rgb": {
+        "r": 128,
+        "g": 40,
+        "b": 0
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Sunrise Orange",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 8800,
+      "unlock": "5 次特技跳跃",
+      "notes": "",
+      "gradient": "#802800!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-36.png/800px-Carcol-GTAV-36.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-36.png/200px-Carcol-GTAV-36.png"
+    },
+    {
+      "id": 37,
+      "name_cn": "金色",
+      "name_en": "Metallic Classic Gold",
+      "category": "Metallic",
+      "hex": "#6E4F2D",
+      "rgb": {
+        "r": 110,
+        "g": 79,
+        "b": 45
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Classic Gold",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 990,
+      "unlock": "25 场赛车胜场",
+      "notes": "",
+      "gradient": "#6E4F2D!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-37.png/800px-Carcol-GTAV-37.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-37.png/200px-Carcol-GTAV-37.png"
+    },
+    {
+      "id": 38,
+      "name_cn": "橙色",
+      "name_en": "Metallic Orange",
+      "category": "Metallic",
+      "hex": "#BD4800",
+      "rgb": {
+        "r": 189,
+        "g": 72,
+        "b": 0
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Orange",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 4500,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#BD4800!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-38.png/800px-Carcol-GTAV-38.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-38.png/200px-Carcol-GTAV-38.png"
+    },
+    {
+      "id": 39,
+      "name_cn": "红色",
+      "name_en": "Matte Red",
+      "category": "Matte",
+      "hex": "#780000",
+      "rgb": {
+        "r": 120,
+        "g": 0,
+        "b": 0
+      },
+      "texture": "Matte",
+      "technical": "Matte Red",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 12500,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#780000!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-39.png/800px-Carcol-GTAV-39.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-39.png/200px-Carcol-GTAV-39.png"
+    },
+    {
+      "id": 40,
+      "name_cn": "暗红色",
+      "name_en": "Matte Dark Red",
+      "category": "Matte",
+      "hex": "#360000",
+      "rgb": {
+        "r": 54,
+        "g": 0,
+        "b": 0
+      },
+      "texture": "Matte",
+      "technical": "Matte Dark Red",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 15000,
+      "unlock": "海路赛车胜场",
+      "notes": "",
+      "gradient": "#360000!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-40.png/800px-Carcol-GTAV-40.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-40.png/200px-Carcol-GTAV-40.png"
+    },
+    {
+      "id": 41,
+      "name_cn": "橙色",
+      "name_en": "Matte Orange",
+      "category": "Matte",
+      "hex": "#AB3F00",
+      "rgb": {
+        "r": 171,
+        "g": 63,
+        "b": 0
+      },
+      "texture": "Matte",
+      "technical": "Matte Orange",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 14000,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#AB3F00!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-41.png/800px-Carcol-GTAV-41.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-41.png/200px-Carcol-GTAV-41.png"
+    },
+    {
+      "id": 42,
+      "name_cn": "黄色",
+      "name_en": "Matte Yellow",
+      "category": "Matte",
+      "hex": "#DE7E00",
+      "rgb": {
+        "r": 222,
+        "g": 126,
+        "b": 0
+      },
+      "texture": "Matte",
+      "technical": "Matte Yellow",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 11600,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#DE7E00!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-42.png/800px-Carcol-GTAV-42.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-42.png/200px-Carcol-GTAV-42.png"
+    },
+    {
+      "id": 43,
+      "name_cn": "红色",
+      "name_en": "Util Red",
+      "category": "Util",
+      "hex": "#520000",
+      "rgb": {
+        "r": 82,
+        "g": 0,
+        "b": 0
+      },
+      "texture": "Utility",
+      "technical": "Util Red",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#520000!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-43.png/800px-Carcol-GTAV-43.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-43.png/200px-Carcol-GTAV-43.png"
+    },
+    {
+      "id": 44,
+      "name_cn": "亮红色",
+      "name_en": "Util Bright Red",
+      "category": "Util",
+      "hex": "#8C0404",
+      "rgb": {
+        "r": 140,
+        "g": 4,
+        "b": 4
+      },
+      "texture": "Utility",
+      "technical": "Util Bright Red",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#8C0404!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-44.png/800px-Carcol-GTAV-44.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-44.png/200px-Carcol-GTAV-44.png"
+    },
+    {
+      "id": 45,
+      "name_cn": "石榴红",
+      "name_en": "Util Garnet Red",
+      "category": "Util",
+      "hex": "#4A1000",
+      "rgb": {
+        "r": 74,
+        "g": 16,
+        "b": 0
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Util Garnet Red",
+      "purchase": {
+        "wheel": true,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#4A1000!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-45.png/800px-Carcol-GTAV-45.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-45.png/200px-Carcol-GTAV-45.png"
+    },
+    {
+      "id": 46,
+      "name_cn": "红色",
+      "name_en": "Worn Red",
+      "category": "Worn",
+      "hex": "#592525",
+      "rgb": {
+        "r": 89,
+        "g": 37,
+        "b": 37
+      },
+      "texture": "Worn",
+      "technical": "Worn Red",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#592525!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-46.png/800px-Carcol-GTAV-46.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-46.png/200px-Carcol-GTAV-46.png"
+    },
+    {
+      "id": 47,
+      "name_cn": "枫木红",
+      "name_en": "Worn Golden Red",
+      "category": "Worn",
+      "hex": "#754231",
+      "rgb": {
+        "r": 117,
+        "g": 66,
+        "b": 49
+      },
+      "texture": "Worn",
+      "technical": "Worn Golden Red",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#754231!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-47.png/800px-Carcol-GTAV-47.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-47.png/200px-Carcol-GTAV-47.png"
+    },
+    {
+      "id": 48,
+      "name_cn": "暗红色",
+      "name_en": "Worn Dark Red",
+      "category": "Worn",
+      "hex": "#210804",
+      "rgb": {
+        "r": 33,
+        "g": 8,
+        "b": 4
+      },
+      "texture": "Worn",
+      "technical": "Worn Dark Red",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#210804!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-48.png/800px-Carcol-GTAV-48.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-48.png/200px-Carcol-GTAV-48.png"
+    },
+    {
+      "id": 49,
+      "name_cn": "深绿色",
+      "name_en": "Metallic Dark Green",
+      "category": "Metallic",
+      "hex": "#001207",
+      "rgb": {
+        "r": 0,
+        "g": 18,
+        "b": 7
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Dark Green",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 870,
+      "unlock": "等级 15",
+      "notes": "",
+      "gradient": "#001207!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-49.png/800px-Carcol-GTAV-49.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-49.png/200px-Carcol-GTAV-49.png"
+    },
+    {
+      "id": 50,
+      "name_cn": "竞速绿",
+      "name_en": "Metallic Racing Green",
+      "category": "Metallic",
+      "hex": "#001A0B",
+      "rgb": {
+        "r": 0,
+        "g": 26,
+        "b": 11
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Racing Green",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 8400,
+      "unlock": "10 次涡轮启动",
+      "notes": "",
+      "gradient": "#001A0B!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-50.png/800px-Carcol-GTAV-50.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-50.png/200px-Carcol-GTAV-50.png"
+    },
+    {
+      "id": 51,
+      "name_cn": "海绿色",
+      "name_en": "Metallic Sea Green",
+      "category": "Metallic",
+      "hex": "#00211E",
+      "rgb": {
+        "r": 0,
+        "g": 33,
+        "b": 30
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Sea Green",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 950,
+      "unlock": "等级 15",
+      "notes": "",
+      "gradient": "#00211E!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-51.png/800px-Carcol-GTAV-51.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-51.png/200px-Carcol-GTAV-51.png"
+    },
+    {
+      "id": 52,
+      "name_cn": "橄榄绿",
+      "name_en": "Metallic Olive Green",
+      "category": "Metallic",
+      "hex": "#1F261E",
+      "rgb": {
+        "r": 31,
+        "g": 38,
+        "b": 30
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Olive Green",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 850,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#1F261E!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-52.png/800px-Carcol-GTAV-52.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-52.png/200px-Carcol-GTAV-52.png"
+    },
+    {
+      "id": 53,
+      "name_cn": "亮绿色",
+      "name_en": "Metallic Green",
+      "category": "Metallic",
+      "hex": "#003805",
+      "rgb": {
+        "r": 0,
+        "g": 56,
+        "b": 5
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Green",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 9600,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#003805!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-53.png/800px-Carcol-GTAV-53.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-53.png/200px-Carcol-GTAV-53.png"
+    },
+    {
+      "id": 54,
+      "name_cn": "汽油绿",
+      "name_en": "Metallic Gasoline Blue Green",
+      "category": "Metallic",
+      "hex": "#0B4145",
+      "rgb": {
+        "r": 11,
+        "g": 65,
+        "b": 69
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Gasoline Blue Green",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 10400,
+      "unlock": "50 次尾流",
+      "notes": "",
+      "gradient": "#0B4145!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-54.png/800px-Carcol-GTAV-54.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-54.png/200px-Carcol-GTAV-54.png"
+    },
+    {
+      "id": 55,
+      "name_cn": "青柠色",
+      "name_en": "Matte Lime Green",
+      "category": "Matte",
+      "hex": "#418503",
+      "rgb": {
+        "r": 65,
+        "g": 133,
+        "b": 3
+      },
+      "texture": "Matte",
+      "technical": "Matte Lime Green",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 17500,
+      "unlock": "海路赛车胜场",
+      "notes": "",
+      "gradient": "#418503!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-55.png/800px-Carcol-GTAV-55.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-55.png/200px-Carcol-GTAV-55.png"
+    },
+    {
+      "id": 56,
+      "name_cn": "深绿色",
+      "name_en": "Util Dark Green",
+      "category": "Util",
+      "hex": "#0F1F15",
+      "rgb": {
+        "r": 15,
+        "g": 31,
+        "b": 21
+      },
+      "texture": "Utility",
+      "technical": "Util Dark Green",
+      "purchase": {
+        "wheel": true,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#0F1F15!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-56.png/800px-Carcol-GTAV-56.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-56.png/200px-Carcol-GTAV-56.png"
+    },
+    {
+      "id": 57,
+      "name_cn": "绿色",
+      "name_en": "Util Green",
+      "category": "Util",
+      "hex": "#023613",
+      "rgb": {
+        "r": 2,
+        "g": 54,
+        "b": 19
+      },
+      "texture": "Utility",
+      "technical": "Util Green",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#023613!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-57.png/800px-Carcol-GTAV-57.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-57.png/200px-Carcol-GTAV-57.png"
+    },
+    {
+      "id": 58,
+      "name_cn": "深绿色",
+      "name_en": "Worn Dark Green",
+      "category": "Worn",
+      "hex": "#162419",
+      "rgb": {
+        "r": 22,
+        "g": 36,
+        "b": 25
+      },
+      "texture": "Worn",
+      "technical": "Worn Dark Green",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#162419!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-58.png/800px-Carcol-GTAV-58.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-58.png/200px-Carcol-GTAV-58.png"
+    },
+    {
+      "id": 59,
+      "name_cn": "绿色",
+      "name_en": "Worn Green",
+      "category": "Worn",
+      "hex": "#2A3625",
+      "rgb": {
+        "r": 42,
+        "g": 54,
+        "b": 37
+      },
+      "texture": "Worn",
+      "technical": "Worn Green",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#2A3625!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-59.png/800px-Carcol-GTAV-59.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-59.png/200px-Carcol-GTAV-59.png"
+    },
+    {
+      "id": 60,
+      "name_cn": "海蚀绿",
+      "name_en": "Worn Sea Wash",
+      "category": "Worn",
+      "hex": "#455C56",
+      "rgb": {
+        "r": 69,
+        "g": 92,
+        "b": 86
+      },
+      "texture": "Worn",
+      "technical": "Worn Sea Wash",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#455C56!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-60.png/800px-Carcol-GTAV-60.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-60.png/200px-Carcol-GTAV-60.png"
+    },
+    {
+      "id": 61,
+      "name_cn": "银河蓝",
+      "name_en": "Metallic Midnight Blue",
+      "category": "Metallic",
+      "hex": "#000D14",
+      "rgb": {
+        "r": 0,
+        "g": 13,
+        "b": 20
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Midnight Blue",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 1010,
+      "unlock": "等级 17",
+      "notes": "",
+      "gradient": "#000D14!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-61.png/800px-Carcol-GTAV-61.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-61.png/200px-Carcol-GTAV-61.png"
+    },
+    {
+      "id": 62,
+      "name_cn": "深蓝色",
+      "name_en": "Metallic Dark Blue",
+      "category": "Metallic",
+      "hex": "#001029",
+      "rgb": {
+        "r": 0,
+        "g": 16,
+        "b": 41
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Dark Blue",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 930,
+      "unlock": "等级 17",
+      "notes": "",
+      "gradient": "#001029!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-62.png/800px-Carcol-GTAV-62.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-62.png/200px-Carcol-GTAV-62.png"
+    },
+    {
+      "id": 63,
+      "name_cn": "撒克逊蓝",
+      "name_en": "Metallic Saxony Blue",
+      "category": "Metallic",
+      "hex": "#1C2F4F",
+      "rgb": {
+        "r": 28,
+        "g": 47,
+        "b": 79
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Saxony Blue",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 900,
+      "unlock": "等级 17",
+      "notes": "",
+      "gradient": "#1C2F4F!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-63.png/800px-Carcol-GTAV-63.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-63.png/200px-Carcol-GTAV-63.png"
+    },
+    {
+      "id": 64,
+      "name_cn": "蓝色",
+      "name_en": "Metallic Blue",
+      "category": "Metallic",
+      "hex": "#001B57",
+      "rgb": {
+        "r": 0,
+        "g": 27,
+        "b": 87
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Blue",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 860,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#001B57!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-64.png/800px-Carcol-GTAV-64.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-64.png/200px-Carcol-GTAV-64.png"
+    },
+    {
+      "id": 65,
+      "name_cn": "海员蓝",
+      "name_en": "Metallic Mariner Blue",
+      "category": "Metallic",
+      "hex": "#3B4E78",
+      "rgb": {
+        "r": 59,
+        "g": 78,
+        "b": 120
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Mariner Blue",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 870,
+      "unlock": "等级 17",
+      "notes": "",
+      "gradient": "#3B4E78!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-65.png/800px-Carcol-GTAV-65.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-65.png/200px-Carcol-GTAV-65.png"
+    },
+    {
+      "id": 66,
+      "name_cn": "港口蓝",
+      "name_en": "Metallic Harbor Blue",
+      "category": "Metallic",
+      "hex": "#272D3B",
+      "rgb": {
+        "r": 39,
+        "g": 45,
+        "b": 59
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Harbor Blue",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 840,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#272D3B!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-66.png/800px-Carcol-GTAV-66.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-66.png/200px-Carcol-GTAV-66.png"
+    },
+    {
+      "id": 67,
+      "name_cn": "钻石蓝",
+      "name_en": "Metallic Diamond Blue",
+      "category": "Metallic",
+      "hex": "#95B2DB",
+      "rgb": {
+        "r": 149,
+        "g": 178,
+        "b": 219
+      },
+      "texture": "Epsilon",
+      "technical": "Metallic Diamond Blue",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 8650,
+      "unlock": "等级 19",
+      "notes": "",
+      "gradient": "#95B2DB!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-67.png/800px-Carcol-GTAV-67.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-67.png/200px-Carcol-GTAV-67.png"
+    },
+    {
+      "id": 68,
+      "name_cn": "冲浪蓝",
+      "name_en": "Metallic Surf Blue",
+      "category": "Metallic",
+      "hex": "#3E627A",
+      "rgb": {
+        "r": 62,
+        "g": 98,
+        "b": 122
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Surf Blue",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 920,
+      "unlock": "等级 19",
+      "notes": "",
+      "gradient": "#3E627A!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-68.png/800px-Carcol-GTAV-68.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-68.png/200px-Carcol-GTAV-68.png"
+    },
+    {
+      "id": 69,
+      "name_cn": "水手蓝",
+      "name_en": "Metallic Nautical Blue",
+      "category": "Metallic",
+      "hex": "#1C3140",
+      "rgb": {
+        "r": 28,
+        "g": 49,
+        "b": 64
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Nautical Blue",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 890,
+      "unlock": "等级 19",
+      "notes": "",
+      "gradient": "#1C3140!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-69.png/800px-Carcol-GTAV-69.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-69.png/200px-Carcol-GTAV-69.png"
+    },
+    {
+      "id": 70,
+      "name_cn": "绝致蓝",
+      "name_en": "Metallic Bright Blue",
+      "category": "Metallic",
+      "hex": "#0055C4",
+      "rgb": {
+        "r": 0,
+        "g": 85,
+        "b": 196
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Bright Blue",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 11000,
+      "unlock": "25 次最快单圈",
+      "notes": "",
+      "gradient": "#0055C4!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-70.png/800px-Carcol-GTAV-70.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-70.png/200px-Carcol-GTAV-70.png"
+    },
+    {
+      "id": 71,
+      "name_cn": "莎夫特紫",
+      "name_en": "Metallic Purple Blue",
+      "category": "Metallic",
+      "hex": "#1A182E",
+      "rgb": {
+        "r": 26,
+        "g": 24,
+        "b": 46
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Purple Blue",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 4500,
+      "unlock": "等级 25",
+      "notes": "",
+      "gradient": "#1A182E!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-71.png/800px-Carcol-GTAV-71.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-71.png/200px-Carcol-GTAV-71.png"
+    },
+    {
+      "id": 72,
+      "name_cn": "帆船紫",
+      "name_en": "Metallic Spinnaker Blue",
+      "category": "Metallic",
+      "hex": "#161629",
+      "rgb": {
+        "r": 22,
+        "g": 22,
+        "b": 41
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Spinnaker Blue",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 11400,
+      "unlock": "25 次涡轮启动",
+      "notes": "",
+      "gradient": "#161629!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-72.png/800px-Carcol-GTAV-72.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-72.png/200px-Carcol-GTAV-72.png"
+    },
+    {
+      "id": 73,
+      "name_cn": "竞速蓝",
+      "name_en": "Metallic Ultra Blue",
+      "category": "Metallic",
+      "hex": "#0E316D",
+      "rgb": {
+        "r": 14,
+        "g": 49,
+        "b": 109
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Ultra Blue",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 4500,
+      "unlock": "等级 19",
+      "notes": "",
+      "gradient": "#0E316D!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-73.png/800px-Carcol-GTAV-73.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-73.png/200px-Carcol-GTAV-73.png"
+    },
+    {
+      "id": 74,
+      "name_cn": "浅蓝色",
+      "name_en": "Metallic Bright Blue",
+      "category": "Metallic",
+      "hex": "#395A83",
+      "rgb": {
+        "r": 57,
+        "g": 90,
+        "b": 131
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Bright Blue",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 810,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#395A83!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-74.png/800px-Carcol-GTAV-74.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-74.png/200px-Carcol-GTAV-74.png"
+    },
+    {
+      "id": 75,
+      "name_cn": "深蓝色",
+      "name_en": "Util Dark Blue",
+      "category": "Util",
+      "hex": "#09142E",
+      "rgb": {
+        "r": 9,
+        "g": 20,
+        "b": 46
+      },
+      "texture": "Utility",
+      "technical": "Util Dark Blue",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#09142E!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-75.png/800px-Carcol-GTAV-75.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-75.png/200px-Carcol-GTAV-75.png"
+    },
+    {
+      "id": 76,
+      "name_cn": "午夜蓝",
+      "name_en": "Util Midnight Blue",
+      "category": "Util",
+      "hex": "#0F1021",
+      "rgb": {
+        "r": 15,
+        "g": 16,
+        "b": 33
+      },
+      "texture": "Utility",
+      "technical": "Util Midnight Blue",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#0F1021!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-76.png/800px-Carcol-GTAV-76.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-76.png/200px-Carcol-GTAV-76.png"
+    },
+    {
+      "id": 77,
+      "name_cn": "蓝色",
+      "name_en": "Util Blue",
+      "category": "Util",
+      "hex": "#152A52",
+      "rgb": {
+        "r": 21,
+        "g": 42,
+        "b": 82
+      },
+      "texture": "Utility",
+      "technical": "Util Blue",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#152A52!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-77.png/800px-Carcol-GTAV-77.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-77.png/200px-Carcol-GTAV-77.png"
+    },
+    {
+      "id": 78,
+      "name_cn": "海沫蓝",
+      "name_en": "Util Sea Foam Blue",
+      "category": "Util",
+      "hex": "#324654",
+      "rgb": {
+        "r": 50,
+        "g": 70,
+        "b": 84
+      },
+      "texture": "Utility",
+      "technical": "Util Sea Foam Blue",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#324654!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-78.png/800px-Carcol-GTAV-78.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-78.png/200px-Carcol-GTAV-78.png"
+    },
+    {
+      "id": 79,
+      "name_cn": "闪电蓝",
+      "name_en": "Uil Lightning blue",
+      "category": "Util",
+      "hex": "#152563",
+      "rgb": {
+        "r": 21,
+        "g": 37,
+        "b": 99
+      },
+      "texture": "Utility",
+      "technical": "Uil Lightning blue",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#152563!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-79.png/800px-Carcol-GTAV-79.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-79.png/200px-Carcol-GTAV-79.png"
+    },
+    {
+      "id": 80,
+      "name_cn": "毛伊岛蓝",
+      "name_en": "Util Maui Blue Poly",
+      "category": "Util",
+      "hex": "#223BA1",
+      "rgb": {
+        "r": 34,
+        "g": 59,
+        "b": 161
+      },
+      "texture": "Utility",
+      "technical": "Util Maui Blue Poly",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#223BA1!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-80.png/800px-Carcol-GTAV-80.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-80.png/200px-Carcol-GTAV-80.png"
+    },
+    {
+      "id": 81,
+      "name_cn": "岩石蓝",
+      "name_en": "Util Bright Blue",
+      "category": "Util",
+      "hex": "#1F1FA1",
+      "rgb": {
+        "r": 31,
+        "g": 31,
+        "b": 161
+      },
+      "texture": "Utility",
+      "technical": "Util Bright Blue",
+      "purchase": {
+        "wheel": true,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#1F1FA1!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-81.png/800px-Carcol-GTAV-81.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-81.png/200px-Carcol-GTAV-81.png"
+    },
+    {
+      "id": 82,
+      "name_cn": "深蓝色",
+      "name_en": "Matte Dark Blue",
+      "category": "Matte",
+      "hex": "#030E2E",
+      "rgb": {
+        "r": 3,
+        "g": 14,
+        "b": 46
+      },
+      "texture": "Matte",
+      "technical": "Matte Dark Blue",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 2150,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#030E2E!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-82.png/800px-Carcol-GTAV-82.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-82.png/200px-Carcol-GTAV-82.png"
+    },
+    {
+      "id": 83,
+      "name_cn": "蓝色",
+      "name_en": "Matte Blue",
+      "category": "Matte",
+      "hex": "#0F1E73",
+      "rgb": {
+        "r": 15,
+        "g": 30,
+        "b": 115
+      },
+      "texture": "Matte",
+      "technical": "Matte Blue",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 14250,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#0F1E73!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-83.png/800px-Carcol-GTAV-83.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-83.png/200px-Carcol-GTAV-83.png"
+    },
+    {
+      "id": 84,
+      "name_cn": "午夜蓝",
+      "name_en": "Matte Midnight Blue",
+      "category": "Matte",
+      "hex": "#001C32",
+      "rgb": {
+        "r": 0,
+        "g": 28,
+        "b": 50
+      },
+      "texture": "Matte",
+      "technical": "Matte Midnight Blue",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 10000,
+      "unlock": "海路赛车胜场",
+      "notes": "",
+      "gradient": "#001C32!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-84.png/800px-Carcol-GTAV-84.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-84.png/200px-Carcol-GTAV-84.png"
+    },
+    {
+      "id": 85,
+      "name_cn": "深蓝色",
+      "name_en": "Worn Dark blue",
+      "category": "Worn",
+      "hex": "#2A3754",
+      "rgb": {
+        "r": 42,
+        "g": 55,
+        "b": 84
+      },
+      "texture": "Worn",
+      "technical": "Worn Dark blue",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#2A3754!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-85.png/800px-Carcol-GTAV-85.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-85.png/200px-Carcol-GTAV-85.png"
+    },
+    {
+      "id": 86,
+      "name_cn": "蓝色",
+      "name_en": "Worn Blue",
+      "category": "Worn",
+      "hex": "#303C5E",
+      "rgb": {
+        "r": 48,
+        "g": 60,
+        "b": 94
+      },
+      "texture": "Worn",
+      "technical": "Worn Blue",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#303C5E!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-86.png/800px-Carcol-GTAV-86.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-86.png/200px-Carcol-GTAV-86.png"
+    },
+    {
+      "id": 87,
+      "name_cn": "浅蓝色",
+      "name_en": "Worn Light blue",
+      "category": "Worn",
+      "hex": "#3B6796",
+      "rgb": {
+        "r": 59,
+        "g": 103,
+        "b": 150
+      },
+      "texture": "Worn",
+      "technical": "Worn Light blue",
+      "purchase": {
+        "wheel": true,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#3B6796!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-87.png/800px-Carcol-GTAV-87.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-87.png/200px-Carcol-GTAV-87.png"
+    },
+    {
+      "id": 88,
+      "name_cn": "黄色",
+      "name_en": "Metallic Taxi Yellow",
+      "category": "Metallic",
+      "hex": "#F5890F",
+      "rgb": {
+        "r": 245,
+        "g": 137,
+        "b": 15
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Taxi Yellow",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 5100,
+      "unlock": "等级 15",
+      "notes": "",
+      "gradient": "#F5890F!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-88.png/800px-Carcol-GTAV-88.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-88.png/200px-Carcol-GTAV-88.png"
+    },
+    {
+      "id": 89,
+      "name_cn": "竞速黄",
+      "name_en": "Metallic Race Yellow",
+      "category": "Metallic",
+      "hex": "#D9A600",
+      "rgb": {
+        "r": 217,
+        "g": 166,
+        "b": 0
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Race Yellow",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 9200,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#D9A600!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-89.png/800px-Carcol-GTAV-89.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-89.png/200px-Carcol-GTAV-89.png"
+    },
+    {
+      "id": 90,
+      "name_cn": "青铜色",
+      "name_en": "Metallic Bronze",
+      "category": "Metallic",
+      "hex": "#4A341B",
+      "rgb": {
+        "r": 74,
+        "g": 52,
+        "b": 27
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Bronze",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 930,
+      "unlock": "等级 15",
+      "notes": "",
+      "gradient": "#4A341B!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-90.png/800px-Carcol-GTAV-90.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-90.png/200px-Carcol-GTAV-90.png"
+    },
+    {
+      "id": 91,
+      "name_cn": "露珠黄",
+      "name_en": "Metallic Yellow Bird",
+      "category": "Metallic",
+      "hex": "#A2A827",
+      "rgb": {
+        "r": 162,
+        "g": 168,
+        "b": 39
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Yellow Bird",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 9600,
+      "unlock": "10 次特技跳跃",
+      "notes": "",
+      "gradient": "#A2A827!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-91.png/800px-Carcol-GTAV-91.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-91.png/200px-Carcol-GTAV-91.png"
+    },
+    {
+      "id": 92,
+      "name_cn": "青柠色",
+      "name_en": "Metallic Lime",
+      "category": "Metallic",
+      "hex": "#568F00",
+      "rgb": {
+        "r": 86,
+        "g": 143,
+        "b": 0
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Lime",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 12500,
+      "unlock": "25 次特技跳跃",
+      "notes": "",
+      "gradient": "#568F00!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-92.png/800px-Carcol-GTAV-92.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-92.png/200px-Carcol-GTAV-92.png"
+    },
+    {
+      "id": 93,
+      "name_cn": "香槟棕",
+      "name_en": "Metallic Champagne",
+      "category": "Metallic",
+      "hex": "#57514B",
+      "rgb": {
+        "r": 87,
+        "g": 81,
+        "b": 75
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Champagne",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#57514B!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-93.png/800px-Carcol-GTAV-93.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-93.png/200px-Carcol-GTAV-93.png"
+    },
+    {
+      "id": 94,
+      "name_cn": "飞特者棕",
+      "name_en": "Metallic Pueblo Beige",
+      "category": "Metallic",
+      "hex": "#291B06",
+      "rgb": {
+        "r": 41,
+        "g": 27,
+        "b": 6
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Pueblo Beige",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 810,
+      "unlock": "等级 21",
+      "notes": "",
+      "gradient": "#291B06!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-94.png/800px-Carcol-GTAV-94.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-94.png/200px-Carcol-GTAV-94.png"
+    },
+    {
+      "id": 95,
+      "name_cn": "黄棕色",
+      "name_en": "Metallic Dark Ivory",
+      "category": "Metallic",
+      "hex": "#262117",
+      "rgb": {
+        "r": 38,
+        "g": 33,
+        "b": 23
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Dark Ivory",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#262117!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-95.png/800px-Carcol-GTAV-95.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-95.png/200px-Carcol-GTAV-95.png"
+    },
+    {
+      "id": 96,
+      "name_cn": "巧克力棕",
+      "name_en": "Metallic Choco Brown",
+      "category": "Metallic",
+      "hex": "#120D07",
+      "rgb": {
+        "r": 18,
+        "g": 13,
+        "b": 7
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Choco Brown",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 9050,
+      "unlock": "等级 21",
+      "notes": "",
+      "gradient": "#120D07!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-96.png/800px-Carcol-GTAV-96.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-96.png/200px-Carcol-GTAV-96.png"
+    },
+    {
+      "id": 97,
+      "name_cn": "枫木棕",
+      "name_en": "Metallic Golden Brown",
+      "category": "Metallic",
+      "hex": "#332111",
+      "rgb": {
+        "r": 51,
+        "g": 33,
+        "b": 17
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Golden Brown",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 850,
+      "unlock": "等级 21",
+      "notes": "",
+      "gradient": "#332111!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-97.png/800px-Carcol-GTAV-97.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-97.png/200px-Carcol-GTAV-97.png"
+    },
+    {
+      "id": 98,
+      "name_cn": "马鞍棕",
+      "name_en": "Metallic Light Brown",
+      "category": "Metallic",
+      "hex": "#3D3023",
+      "rgb": {
+        "r": 61,
+        "g": 48,
+        "b": 35
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Light Brown",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 830,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#3D3023!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-98.png/800px-Carcol-GTAV-98.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-98.png/200px-Carcol-GTAV-98.png"
+    },
+    {
+      "id": 99,
+      "name_cn": "稻草棕",
+      "name_en": "Metallic Straw Beige",
+      "category": "Metallic",
+      "hex": "#5E5343",
+      "rgb": {
+        "r": 94,
+        "g": 83,
+        "b": 67
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Straw Beige",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 880,
+      "unlock": "等级 23",
+      "notes": "",
+      "gradient": "#5E5343!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-99.png/800px-Carcol-GTAV-99.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-99.png/200px-Carcol-GTAV-99.png"
+    },
+    {
+      "id": 100,
+      "name_cn": "青苔棕",
+      "name_en": "Metallic Moss Brown",
+      "category": "Metallic",
+      "hex": "#37382B",
+      "rgb": {
+        "r": 55,
+        "g": 56,
+        "b": 43
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Moss Brown",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 860,
+      "unlock": "等级 23",
+      "notes": "",
+      "gradient": "#37382B!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-100.png/800px-Carcol-GTAV-100.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-100.png/200px-Carcol-GTAV-100.png"
+    },
+    {
+      "id": 101,
+      "name_cn": "野牛棕",
+      "name_en": "Metallic Biston Brown",
+      "category": "Metallic",
+      "hex": "#221918",
+      "rgb": {
+        "r": 34,
+        "g": 25,
+        "b": 24
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Biston Brown",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 8000,
+      "unlock": "5 次最快单圈",
+      "notes": "",
+      "gradient": "#221918!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-101.png/800px-Carcol-GTAV-101.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-101.png/200px-Carcol-GTAV-101.png"
+    },
+    {
+      "id": 102,
+      "name_cn": "木棕色",
+      "name_en": "Metallic Beechwood",
+      "category": "Metallic",
+      "hex": "#575036",
+      "rgb": {
+        "r": 87,
+        "g": 80,
+        "b": 54
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Beechwood",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 900,
+      "unlock": "5 场赛车胜场",
+      "notes": "",
+      "gradient": "#575036!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-102.png/800px-Carcol-GTAV-102.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-102.png/200px-Carcol-GTAV-102.png"
+    },
+    {
+      "id": 103,
+      "name_cn": "暖棕色",
+      "name_en": "Metallic Dark Beechwood",
+      "category": "Metallic",
+      "hex": "#241309",
+      "rgb": {
+        "r": 36,
+        "g": 19,
+        "b": 9
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Dark Beechwood",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 920,
+      "unlock": "等级 21",
+      "notes": "",
+      "gradient": "#241309!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-103.png/800px-Carcol-GTAV-103.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-103.png/200px-Carcol-GTAV-103.png"
+    },
+    {
+      "id": 104,
+      "name_cn": "黄土棕",
+      "name_en": "Metallic Choco Orange",
+      "category": "Metallic",
+      "hex": "#3B1700",
+      "rgb": {
+        "r": 59,
+        "g": 23,
+        "b": 0
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Choco Orange",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#3B1700!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-104.png/800px-Carcol-GTAV-104.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-104.png/200px-Carcol-GTAV-104.png"
+    },
+    {
+      "id": 105,
+      "name_cn": "沙棕色",
+      "name_en": "Metallic Beach Sand",
+      "category": "Metallic",
+      "hex": "#6E6246",
+      "rgb": {
+        "r": 110,
+        "g": 98,
+        "b": 70
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Beach Sand",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 870,
+      "unlock": "等级 23",
+      "notes": "",
+      "gradient": "#6E6246!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-105.png/800px-Carcol-GTAV-105.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-105.png/200px-Carcol-GTAV-105.png"
+    },
+    {
+      "id": 106,
+      "name_cn": "漂白棕",
+      "name_en": "Metallic Sun Bleeched Sand",
+      "category": "Metallic",
+      "hex": "#998D73",
+      "rgb": {
+        "r": 153,
+        "g": 141,
+        "b": 115
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Sun Bleeched Sand",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#998D73!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-106.png/800px-Carcol-GTAV-106.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-106.png/200px-Carcol-GTAV-106.png"
+    },
+    {
+      "id": 107,
+      "name_cn": "奶油色",
+      "name_en": "Metallic Cream",
+      "category": "Metallic",
+      "hex": "#CFC0A5",
+      "rgb": {
+        "r": 207,
+        "g": 192,
+        "b": 165
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Cream",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 780,
+      "unlock": "等级 25",
+      "notes": "",
+      "gradient": "#CFC0A5!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-107.png/800px-Carcol-GTAV-107.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-107.png/200px-Carcol-GTAV-107.png"
+    },
+    {
+      "id": 108,
+      "name_cn": "棕色",
+      "name_en": "Util Brown",
+      "category": "Util",
+      "hex": "#1F1709",
+      "rgb": {
+        "r": 31,
+        "g": 23,
+        "b": 9
+      },
+      "texture": "Utility",
+      "technical": "Util Brown",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#1F1709!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-108.png/800px-Carcol-GTAV-108.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-108.png/200px-Carcol-GTAV-108.png"
+    },
+    {
+      "id": 109,
+      "name_cn": "青铜色",
+      "name_en": "Util Medium Brown",
+      "category": "Util",
+      "hex": "#3D311D",
+      "rgb": {
+        "r": 61,
+        "g": 49,
+        "b": 29
+      },
+      "texture": "Utility",
+      "technical": "Util Medium Brown",
+      "purchase": {
+        "wheel": true,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#3D311D!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-109.png/800px-Carcol-GTAV-109.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-109.png/200px-Carcol-GTAV-109.png"
+    },
+    {
+      "id": 110,
+      "name_cn": "马鞍棕",
+      "name_en": "Util Light Brown",
+      "category": "Util",
+      "hex": "#665847",
+      "rgb": {
+        "r": 102,
+        "g": 88,
+        "b": 71
+      },
+      "texture": "Utility",
+      "technical": "Util Light Brown",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#665847!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-110.png/800px-Carcol-GTAV-110.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-110.png/200px-Carcol-GTAV-110.png"
+    },
+    {
+      "id": 111,
+      "name_cn": "冰雪白",
+      "name_en": "Metallic White",
+      "category": "Metallic",
+      "hex": "#F0F0F0",
+      "rgb": {
+        "r": 240,
+        "g": 240,
+        "b": 240
+      },
+      "texture": "Epsilon",
+      "technical": "Metallic White",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 810,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#F0F0F0!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-111.png/800px-Carcol-GTAV-111.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-111.png/200px-Carcol-GTAV-111.png"
+    },
+    {
+      "id": 112,
+      "name_cn": "冰霜白",
+      "name_en": "Metallic Frost White",
+      "category": "Metallic",
+      "hex": "#B3B9C9",
+      "rgb": {
+        "r": 179,
+        "g": 185,
+        "b": 201
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Frost White",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 870,
+      "unlock": "等级 25",
+      "notes": "",
+      "gradient": "#C9C9C9!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-112.png/800px-Carcol-GTAV-112.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-112.png/200px-Carcol-GTAV-112.png"
+    },
+    {
+      "id": 113,
+      "name_cn": "蜂蜜棕",
+      "name_en": "Worn Honey Beige",
+      "category": "Worn",
+      "hex": "#615F55",
+      "rgb": {
+        "r": 97,
+        "g": 95,
+        "b": 85
+      },
+      "texture": "Worn",
+      "technical": "Worn Honey Beige",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#B3B9C9!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-113.png/800px-Carcol-GTAV-113.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-113.png/200px-Carcol-GTAV-113.png"
+    },
+    {
+      "id": 114,
+      "name_cn": "棕色",
+      "name_en": "Worn Brown",
+      "category": "Worn",
+      "hex": "#241E1A",
+      "rgb": {
+        "r": 36,
+        "g": 30,
+        "b": 26
+      },
+      "texture": "Worn",
+      "technical": "Worn Brown",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#241E1A!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-114.png/800px-Carcol-GTAV-114.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-114.png/200px-Carcol-GTAV-114.png"
+    },
+    {
+      "id": 115,
+      "name_cn": "深棕色",
+      "name_en": "Worn Dark Brown",
+      "category": "Worn",
+      "hex": "#171413",
+      "rgb": {
+        "r": 23,
+        "g": 20,
+        "b": 19
+      },
+      "texture": "Worn",
+      "technical": "Worn Dark Brown",
+      "purchase": {
+        "wheel": true,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#171413!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-115.png/800px-Carcol-GTAV-115.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-115.png/200px-Carcol-GTAV-115.png"
+    },
+    {
+      "id": 116,
+      "name_cn": "稻草棕",
+      "name_en": "Worn straw beige",
+      "category": "Worn",
+      "hex": "#3B372F",
+      "rgb": {
+        "r": 59,
+        "g": 55,
+        "b": 47
+      },
+      "texture": "Worn",
+      "technical": "Worn straw beige",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#3B372F!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-116.png/800px-Carcol-GTAV-116.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-116.png/200px-Carcol-GTAV-116.png"
+    },
+    {
+      "id": 117,
+      "name_cn": "拉丝钢",
+      "name_en": "Brushed Steel",
+      "category": "Metal",
+      "hex": "#3B4045",
+      "rgb": {
+        "r": 59,
+        "g": 64,
+        "b": 69
+      },
+      "texture": "Brushed",
+      "technical": "Brushed Steel",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 12500,
+      "unlock": "拉力赛车胜场",
+      "notes": "",
+      "gradient": "#3B4045!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-117.png/800px-Carcol-GTAV-117.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-117.png/200px-Carcol-GTAV-117.png"
+    },
+    {
+      "id": 118,
+      "name_cn": "拉丝黑钢",
+      "name_en": "Brushed Black steel",
+      "category": "Metal",
+      "hex": "#1A1E21",
+      "rgb": {
+        "r": 26,
+        "g": 30,
+        "b": 33
+      },
+      "texture": "Brushed",
+      "technical": "Brushed Black steel",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 11500,
+      "unlock": "拉力赛车胜场",
+      "notes": "",
+      "gradient": "#1A1E21!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-118.png/800px-Carcol-GTAV-118.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-118.png/200px-Carcol-GTAV-118.png"
+    },
+    {
+      "id": 119,
+      "name_cn": "拉丝铝合金",
+      "name_en": "Brushed Aluminium",
+      "category": "Metal",
+      "hex": "#5E646B",
+      "rgb": {
+        "r": 94,
+        "g": 100,
+        "b": 107
+      },
+      "texture": "Brushed",
+      "technical": "Brushed Aluminium",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 10250,
+      "unlock": "拉力赛车胜场",
+      "notes": "",
+      "gradient": "#5E646B!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-119.png/800px-Carcol-GTAV-119.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-119.png/200px-Carcol-GTAV-119.png"
+    },
+    {
+      "id": 120,
+      "name_cn": "铬合金",
+      "name_en": "Chrome",
+      "category": "Chrome",
+      "hex": "#000000",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "texture": "Chrome",
+      "technical": "Chrome",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 25000,
+      "unlock": "50 场赛车胜场",
+      "notes": "",
+      "gradient": "#000000!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-120.png/800px-Carcol-GTAV-120.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-120.png/200px-Carcol-GTAV-120.png"
+    },
+    {
+      "id": 121,
+      "name_cn": "冰霜白",
+      "name_en": "Worn Off White",
+      "category": "Worn",
+      "hex": "#B0B0B0",
+      "rgb": {
+        "r": 176,
+        "g": 176,
+        "b": 176
+      },
+      "texture": "Worn",
+      "technical": "Worn Off White",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#B0B0B0!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-121.png/800px-Carcol-GTAV-121.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-121.png/200px-Carcol-GTAV-121.png"
+    },
+    {
+      "id": 122,
+      "name_cn": "冰霜白",
+      "name_en": "Util Off White",
+      "category": "Util",
+      "hex": "#999999",
+      "rgb": {
+        "r": 153,
+        "g": 153,
+        "b": 153
+      },
+      "texture": "Utility",
+      "technical": "Util Off White",
+      "purchase": {
+        "wheel": true,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#999999!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-122.png/800px-Carcol-GTAV-122.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-122.png/200px-Carcol-GTAV-122.png"
+    },
+    {
+      "id": 123,
+      "name_cn": "橙色",
+      "name_en": "Worn Orange",
+      "category": "Worn",
+      "hex": "#B56519",
+      "rgb": {
+        "r": 181,
+        "g": 101,
+        "b": 25
+      },
+      "texture": "Worn",
+      "technical": "Worn Orange",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#B56519!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-123.png/800px-Carcol-GTAV-123.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-123.png/200px-Carcol-GTAV-123.png"
+    },
+    {
+      "id": 124,
+      "name_cn": "亮橙色",
+      "name_en": "Worn Light Orange",
+      "category": "Worn",
+      "hex": "#C45C33",
+      "rgb": {
+        "r": 196,
+        "g": 92,
+        "b": 51
+      },
+      "texture": "Worn",
+      "technical": "Worn Light Orange",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#C45C33!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-124.png/800px-Carcol-GTAV-124.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-124.png/200px-Carcol-GTAV-124.png"
+    },
+    {
+      "id": 125,
+      "name_cn": "豌豆绿",
+      "name_en": "Metallic Securicor Green",
+      "category": "Metallic",
+      "hex": "#47783C",
+      "rgb": {
+        "r": 71,
+        "g": 120,
+        "b": 60
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Securicor Green",
+      "purchase": {
+        "wheel": true,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 870,
+      "unlock": "默认",
+      "notes": "Used as the secondary color for theStockade.",
+      "gradient": "#47783C!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-125.png/800px-Carcol-GTAV-125.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-125.png/200px-Carcol-GTAV-125.png"
+    },
+    {
+      "id": 126,
+      "name_cn": "黄色",
+      "name_en": "Worn Taxi Yellow",
+      "category": "Worn",
+      "hex": "#BA8425",
+      "rgb": {
+        "r": 186,
+        "g": 132,
+        "b": 37
+      },
+      "texture": "Worn",
+      "technical": "Worn Taxi Yellow",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#BA8425!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-126.png/800px-Carcol-GTAV-126.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-126.png/200px-Carcol-GTAV-126.png"
+    },
+    {
+      "id": 127,
+      "name_cn": "警车蓝",
+      "name_en": "police car blue",
+      "category": "Metallic",
+      "hex": "#2A77A1",
+      "rgb": {
+        "r": 42,
+        "g": 119,
+        "b": 161
+      },
+      "texture": "Classic/Metallic",
+      "technical": "police car blue",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#2A77A1!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-127.png/800px-Carcol-GTAV-127.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-127.png/200px-Carcol-GTAV-127.png"
+    },
+    {
+      "id": 128,
+      "name_cn": "绿色",
+      "name_en": "Matte Green",
+      "category": "Matte",
+      "hex": "#243022",
+      "rgb": {
+        "r": 36,
+        "g": 48,
+        "b": 34
+      },
+      "texture": "Matte",
+      "technical": "Matte Green",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 2130,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#243022!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-128.png/800px-Carcol-GTAV-128.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-128.png/200px-Carcol-GTAV-128.png"
+    },
+    {
+      "id": 129,
+      "name_cn": "棕色",
+      "name_en": "Matte Brown",
+      "category": "Matte",
+      "hex": "#6B5F54",
+      "rgb": {
+        "r": 107,
+        "g": 95,
+        "b": 84
+      },
+      "texture": "Matte",
+      "technical": "Matte Brown",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 2170,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#6B5F54!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-129.png/800px-Carcol-GTAV-129.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-129.png/200px-Carcol-GTAV-129.png"
+    },
+    {
+      "id": 130,
+      "name_cn": "橙色",
+      "name_en": "Worn Orange",
+      "category": "Worn",
+      "hex": "#C96E34",
+      "rgb": {
+        "r": 201,
+        "g": 110,
+        "b": 52
+      },
+      "texture": "Worn",
+      "technical": "Worn Orange",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#C96E34!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-130.png/800px-Carcol-GTAV-130.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-130.png/200px-Carcol-GTAV-130.png"
+    },
+    {
+      "id": 131,
+      "name_cn": "冰雪白",
+      "name_en": "Matte White",
+      "category": "Matte",
+      "hex": "#D9D9D9",
+      "rgb": {
+        "r": 217,
+        "g": 217,
+        "b": 217
+      },
+      "texture": "Matte",
+      "technical": "Matte White",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 2430,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#D9D9D9!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-131.png/800px-Carcol-GTAV-131.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-131.png/200px-Carcol-GTAV-131.png"
+    },
+    {
+      "id": 132,
+      "name_cn": "冰雪白",
+      "name_en": "Worn White",
+      "category": "Worn",
+      "hex": "#F0F0F0",
+      "rgb": {
+        "r": 240,
+        "g": 240,
+        "b": 240
+      },
+      "texture": "Worn",
+      "technical": "Worn White",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#F0F0F0!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-132.png/800px-Carcol-GTAV-132.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-132.png/200px-Carcol-GTAV-132.png"
+    },
+    {
+      "id": 133,
+      "name_cn": "橄榄军绿",
+      "name_en": "Worn Olive Army Green",
+      "category": "Worn",
+      "hex": "#3F4228",
+      "rgb": {
+        "r": 63,
+        "g": 66,
+        "b": 40
+      },
+      "texture": "Matte",
+      "technical": "Worn Olive Army Green",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#3F4228!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-133.png/800px-Carcol-GTAV-133.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-133.png/200px-Carcol-GTAV-133.png"
+    },
+    {
+      "id": 134,
+      "name_cn": "纯白色",
+      "name_en": "Pure White",
+      "category": "Metallic",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Pure White",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 810,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#FFFFFF!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-134.png/800px-Carcol-GTAV-134.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-134.png/200px-Carcol-GTAV-134.png"
+    },
+    {
+      "id": 135,
+      "name_cn": "亮粉色",
+      "name_en": "Hot Pink",
+      "category": "Metallic",
+      "hex": "#B01259",
+      "rgb": {
+        "r": 176,
+        "g": 18,
+        "b": 89
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Hot Pink",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 12500,
+      "unlock": "50 次涡轮启动",
+      "notes": "",
+      "gradient": "#B01259!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-135.png/800px-Carcol-GTAV-135.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-135.png/200px-Carcol-GTAV-135.png"
+    },
+    {
+      "id": 136,
+      "name_cn": "浅鲑红",
+      "name_en": "Salmon pink",
+      "category": "Metallic",
+      "hex": "#F69799",
+      "rgb": {
+        "r": 246,
+        "g": 151,
+        "b": 153
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Salmon pink",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 10400,
+      "unlock": "等级 13",
+      "notes": "",
+      "gradient": "#F69799!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-136.png/800px-Carcol-GTAV-136.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-136.png/200px-Carcol-GTAV-136.png"
+    },
+    {
+      "id": 137,
+      "name_cn": "菲斯特粉",
+      "name_en": "Metallic Vermillion Pink",
+      "category": "Metallic",
+      "hex": "#8F2F55",
+      "rgb": {
+        "r": 143,
+        "g": 47,
+        "b": 85
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Vermillion Pink",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 11000,
+      "unlock": "等级 13",
+      "notes": "",
+      "gradient": "#8F2F55!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-137.png/800px-Carcol-GTAV-137.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-137.png/200px-Carcol-GTAV-137.png"
+    },
+    {
+      "id": 138,
+      "name_cn": "亮橙色",
+      "name_en": "Orange",
+      "category": "Metallic",
+      "hex": "#C26610",
+      "rgb": {
+        "r": 194,
+        "g": 102,
+        "b": 16
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Orange",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 5400,
+      "unlock": "等级 13",
+      "notes": "",
+      "gradient": "#C26610!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-138.png/800px-Carcol-GTAV-138.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-138.png/200px-Carcol-GTAV-138.png"
+    },
+    {
+      "id": 139,
+      "name_cn": "绿色",
+      "name_en": "Green",
+      "category": "Metallic",
+      "hex": "#69BD45",
+      "rgb": {
+        "r": 105,
+        "g": 189,
+        "b": 69
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Green",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 9600,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#69BD45!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-139.png/800px-Carcol-GTAV-139.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-139.png/200px-Carcol-GTAV-139.png"
+    },
+    {
+      "id": 140,
+      "name_cn": "荧光蓝",
+      "name_en": "Blue",
+      "category": "Metallic",
+      "hex": "#00AEEF",
+      "rgb": {
+        "r": 0,
+        "g": 174,
+        "b": 239
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Blue",
+      "purchase": {
+        "wheel": true,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 4500,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#00AEEF!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-140.png/800px-Carcol-GTAV-140.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-140.png/200px-Carcol-GTAV-140.png"
+    },
+    {
+      "id": 141,
+      "name_cn": "午夜蓝",
+      "name_en": "Mettalic Black Blue",
+      "category": "Metallic",
+      "hex": "#000108",
+      "rgb": {
+        "r": 0,
+        "g": 1,
+        "b": 8
+      },
+      "texture": "Util2",
+      "technical": "Mettalic Black Blue",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 9800,
+      "unlock": "10 次最快单圈",
+      "notes": "",
+      "gradient": "#000108!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-141.png/800px-Carcol-GTAV-141.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-141.png/200px-Carcol-GTAV-141.png"
+    },
+    {
+      "id": 142,
+      "name_cn": "午夜紫",
+      "name_en": "Metallic Black Purple",
+      "category": "Metallic",
+      "hex": "#050008",
+      "rgb": {
+        "r": 5,
+        "g": 0,
+        "b": 8
+      },
+      "texture": "Util2",
+      "technical": "Metallic Black Purple",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 11000,
+      "unlock": "等级 25",
+      "notes": "",
+      "gradient": "#050008!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-142.png/800px-Carcol-GTAV-142.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-142.png/200px-Carcol-GTAV-142.png"
+    },
+    {
+      "id": 143,
+      "name_cn": "红酒色",
+      "name_en": "Metallic Black Red",
+      "category": "Metallic",
+      "hex": "#080000",
+      "rgb": {
+        "r": 8,
+        "g": 0,
+        "b": 0
+      },
+      "texture": "Util2",
+      "technical": "Metallic Black Red",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 10400,
+      "unlock": "5 次涡轮启动",
+      "notes": "",
+      "gradient": "#080000!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-143.png/800px-Carcol-GTAV-143.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-143.png/200px-Carcol-GTAV-143.png"
+    },
+    {
+      "id": 144,
+      "name_cn": "猎人绿",
+      "name_en": "hunter green",
+      "category": "Metallic",
+      "hex": "#565751",
+      "rgb": {
+        "r": 86,
+        "g": 87,
+        "b": 81
+      },
+      "texture": "Classic/Metallic",
+      "technical": "hunter green",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 870,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#565751!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-144.png/800px-Carcol-GTAV-144.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-144.png/200px-Carcol-GTAV-144.png"
+    },
+    {
+      "id": 145,
+      "name_cn": "亮紫色",
+      "name_en": "Metallic Purple",
+      "category": "Metallic",
+      "hex": "#320642",
+      "rgb": {
+        "r": 50,
+        "g": 6,
+        "b": 66
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Purple",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 12500,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#320642!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-145.png/800px-Carcol-GTAV-145.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-145.png/200px-Carcol-GTAV-145.png"
+    },
+    {
+      "id": 146,
+      "name_cn": "午夜紫",
+      "name_en": "Metaillic V Dark Blue",
+      "category": "Metallic",
+      "hex": "#00080F",
+      "rgb": {
+        "r": 0,
+        "g": 8,
+        "b": 15
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metaillic V Dark Blue",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "",
+      "gradient": "#00080F!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-146.png/800px-Carcol-GTAV-146.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-146.png/200px-Carcol-GTAV-146.png"
+    },
+    {
+      "id": 147,
+      "name_cn": "碳纤黑",
+      "name_en": "MODSHOP BLACK1",
+      "category": "Metallic",
+      "hex": "#080808",
+      "rgb": {
+        "r": 8,
+        "g": 8,
+        "b": 8
+      },
+      "texture": "Util2",
+      "technical": "MODSHOP BLACK1",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 810,
+      "unlock": "等级 7",
+      "notes": "Used as the color for \"Carbon Black\" with lower specular intensity.",
+      "gradient": "#080808!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-147.png/800px-Carcol-GTAV-147.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-147.png/200px-Carcol-GTAV-147.png"
+    },
+    {
+      "id": 148,
+      "name_cn": "莎夫特紫",
+      "name_en": "Matte Purple",
+      "category": "Matte",
+      "hex": "#320642",
+      "rgb": {
+        "r": 50,
+        "g": 6,
+        "b": 66
+      },
+      "texture": "Matte",
+      "technical": "Matte Purple",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 17000,
+      "unlock": "海路赛车胜场",
+      "notes": "",
+      "gradient": "#320642!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-148.png/800px-Carcol-GTAV-148.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-148.png/200px-Carcol-GTAV-148.png"
+    },
+    {
+      "id": 149,
+      "name_cn": "午夜紫",
+      "name_en": "Matte Dark Purple",
+      "category": "Matte",
+      "hex": "#050008",
+      "rgb": {
+        "r": 5,
+        "g": 0,
+        "b": 8
+      },
+      "texture": "Matte",
+      "technical": "Matte Dark Purple",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 13750,
+      "unlock": "海路赛车胜场",
+      "notes": "",
+      "gradient": "#050008!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-149.png/800px-Carcol-GTAV-149.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-149.png/200px-Carcol-GTAV-149.png"
+    },
+    {
+      "id": 150,
+      "name_cn": "熔岩红",
+      "name_en": "Metallic Lava Red",
+      "category": "Metallic",
+      "hex": "#6B0B00",
+      "rgb": {
+        "r": 107,
+        "g": 11,
+        "b": 0
+      },
+      "texture": "Classic/Metallic",
+      "technical": "Metallic Lava Red",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": true
+      },
+      "price": 11600,
+      "unlock": "100 次尾流",
+      "notes": "",
+      "gradient": "#6B0B00!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-150.png/800px-Carcol-GTAV-150.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-150.png/200px-Carcol-GTAV-150.png"
+    },
+    {
+      "id": 151,
+      "name_cn": "森林绿",
+      "name_en": "Matte Forest Green",
+      "category": "Matte",
+      "hex": "#121710",
+      "rgb": {
+        "r": 18,
+        "g": 23,
+        "b": 16
+      },
+      "texture": "Matte",
+      "technical": "Matte Forest Green",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 2150,
+      "unlock": "空路赛车胜场",
+      "notes": "",
+      "gradient": "#121710!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-151.png/800px-Carcol-GTAV-151.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-151.png/200px-Carcol-GTAV-151.png"
+    },
+    {
+      "id": 152,
+      "name_cn": "橄榄褐",
+      "name_en": "Matte Olive Drab",
+      "category": "Matte",
+      "hex": "#323325",
+      "rgb": {
+        "r": 50,
+        "g": 51,
+        "b": 37
+      },
+      "texture": "Matte",
+      "technical": "Matte Olive Drab",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 2250,
+      "unlock": "空路赛车胜场",
+      "notes": "",
+      "gradient": "#323325!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-152.png/800px-Carcol-GTAV-152.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-152.png/200px-Carcol-GTAV-152.png"
+    },
+    {
+      "id": 153,
+      "name_cn": "深土黄",
+      "name_en": "Matte Desert Brown",
+      "category": "Matte",
+      "hex": "#3B352D",
+      "rgb": {
+        "r": 59,
+        "g": 53,
+        "b": 45
+      },
+      "texture": "Matte",
+      "technical": "Matte Desert Brown",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 2240,
+      "unlock": "空路赛车胜场",
+      "notes": "",
+      "gradient": "#3B352D!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-153.png/800px-Carcol-GTAV-153.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-153.png/200px-Carcol-GTAV-153.png"
+    },
+    {
+      "id": 154,
+      "name_cn": "沙漠金",
+      "name_en": "Matte Desert Tan",
+      "category": "Matte",
+      "hex": "#706656",
+      "rgb": {
+        "r": 112,
+        "g": 102,
+        "b": 86
+      },
+      "texture": "Matte",
+      "technical": "Matte Desert Tan",
+      "purchase": {
+        "wheel": true,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 2170,
+      "unlock": "空路赛车胜场",
+      "notes": "",
+      "gradient": "#706656!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-154.png/800px-Carcol-GTAV-154.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-154.png/200px-Carcol-GTAV-154.png"
+    },
+    {
+      "id": 155,
+      "name_cn": "叶褐色",
+      "name_en": "Matte Foilage Green",
+      "category": "Matte",
+      "hex": "#2B302B",
+      "rgb": {
+        "r": 43,
+        "g": 48,
+        "b": 43
+      },
+      "texture": "Matte",
+      "technical": "Matte Foilage Green",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 2100,
+      "unlock": "空路赛车胜场",
+      "notes": "",
+      "gradient": "#2B302B!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-155.png/800px-Carcol-GTAV-155.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-155.png/200px-Carcol-GTAV-155.png"
+    },
+    {
+      "id": 156,
+      "name_cn": "合金",
+      "name_en": "DEFAULT ALLOY COLOR",
+      "category": "Metal",
+      "hex": "#414347",
+      "rgb": {
+        "r": 65,
+        "g": 67,
+        "b": 71
+      },
+      "texture": "Util2",
+      "technical": "DEFAULT ALLOY COLOR",
+      "purchase": {
+        "wheel": true,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 780,
+      "unlock": "默认",
+      "notes": "Used as the default wheel color for most vehicles. Applied to standard rims by default.",
+      "gradient": "#414347!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-156.png/800px-Carcol-GTAV-156.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-156.png/200px-Carcol-GTAV-156.png"
+    },
+    {
+      "id": 157,
+      "name_cn": "埃普西隆蓝",
+      "name_en": "Epsilon Blue",
+      "category": "Metallic",
+      "hex": "#6690B5",
+      "rgb": {
+        "r": 102,
+        "g": 144,
+        "b": 181
+      },
+      "texture": "Epsilon",
+      "technical": "Epsilon Blue",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 4500,
+      "unlock": "默认",
+      "notes": "Used as the color for allEpsilon Program-owned vehicles.",
+      "gradient": "#6690B5!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-157.png/800px-Carcol-GTAV-157.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-157.png/200px-Carcol-GTAV-157.png"
+    },
+    {
+      "id": 158,
+      "name_cn": "纯金",
+      "name_en": "MP100 GOLD",
+      "category": "Metal",
+      "hex": "#47391B",
+      "rgb": {
+        "r": 71,
+        "g": 57,
+        "b": 27
+      },
+      "texture": "Pure Gold",
+      "technical": "MP100 GOLD",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 50000,
+      "unlock": "等级 100",
+      "notes": "Added inThe \"I'm Not a Hipster\" Update",
+      "gradient": "#47391B!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-158.png/800px-Carcol-GTAV-158.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-158.png/200px-Carcol-GTAV-158.png"
+    },
+    {
+      "id": 159,
+      "name_cn": "拉丝金",
+      "name_en": "MP100 GOLD SATIN",
+      "category": "Metal",
+      "hex": "#47391B",
+      "rgb": {
+        "r": 71,
+        "g": 57,
+        "b": 27
+      },
+      "texture": "Brushed Gold",
+      "technical": "MP100 GOLD SATIN",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "price": 45000,
+      "unlock": "等级 100",
+      "notes": "Added in The \"I'm Not a Hipster\" Update",
+      "gradient": "#47391B!important;color:var(--gtawiki-text-uni-white)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-159.png/800px-Carcol-GTAV-159.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-159.png/200px-Carcol-GTAV-159.png"
+    },
+    {
+      "id": 160,
+      "name_cn": "秘金",
+      "name_en": "MP100 GOLD SPEC",
+      "category": "Metal",
+      "hex": "#FFD859",
+      "rgb": {
+        "r": 255,
+        "g": 216,
+        "b": 89
+      },
+      "texture": "Pure Gold",
+      "technical": "MP100 GOLD SPEC",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "price": 50000,
+      "unlock": "等级 100",
+      "notes": "Added in The \"I'm Not a Hipster\" Update. Used as the pearlescent for Pure Gold and Brushed Gold in mod shops.",
+      "gradient": "#FFD859!important;color:var(--gtawiki-text-uni-black)",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAV-160.png/800px-Carcol-GTAV-160.png",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAV-160.png/200px-Carcol-GTAV-160.png"
+    },
+    {
+      "id": 161,
+      "name_en": "Anodized Red Pearl",
+      "name_cn": "阳极氧化红珍珠",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 46300,
+      "unlock": "默认",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "available": true,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Anodized Red Pearl",
+      "gradient": "linear-gradient(to right,#050100 0%,#090300 8%,#170800 18%,#220b00 46%,#310a00 56%,#3e0c00 62%,#4b0f00 65%,#581a07 68%,#581a0a 68%,#5b1c0a 68%,#652715 71%,#6d301c 75%,#6d301c 77%,#692b18 79%,#5c1d0b 83%,#581705 85%,#511100 88%,#470e00 92%,#3d0d00 100%)!important;color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-161.jpg/800px-Carcol-GTAOee-161.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-161.jpg/200px-Carcol-GTAOee-161.jpg"
+    },
+    {
+      "id": 162,
+      "name_en": "Anodized Burgundy Pearl",
+      "name_cn": "阳极氧化酒红",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Anodized Burgundy Pearl",
+      "gradient": "linear-gradient(to right,#030004 0%,#070008 10%,#0f0011 18%,#150016 34%,#150015 42%,#1f001a 56%,#28001e 61%,#350023 66%,#3c0025 67%,#45042a 69%,#500d2f 72%,#54102f 75%,#520d29 79%,#49031c 83%,#400015 86%,#390011 89%,#2e000a 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-162.jpg/800px-Carcol-GTAOee-162.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-162.jpg/200px-Carcol-GTAOee-162.jpg"
+    },
+    {
+      "id": 163,
+      "name_en": "Anodized Purple Pearl",
+      "name_cn": "阳极氧化紫",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Anodized Purple Pearl",
+      "gradient": "linear-gradient(to right,#000004 0%,#030011 19%,#060015 41%,#0d001e 55%,#130026 59%,#1e0031 64%,#2e0542 69%,#310544 69%,#3a0a4b 71%,#450d51 76%,#460b50 79%,#400346 84%,#360033 90%,#2f0020 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-163.jpg/800px-Carcol-GTAOee-163.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-163.jpg/200px-Carcol-GTAOee-163.jpg"
+    },
+    {
+      "id": 164,
+      "name_en": "Anodized Blue Pearl",
+      "name_cn": "阳极氧化蓝珍珠",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 45000,
+      "unlock": "默认",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "available": true,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Anodized Blue Pearl",
+      "gradient": "linear-gradient(to right,#000204 0%,#000915 30%,#000715 41%,#000422 57%,#00012e 63%,#030137 66%,#130a4b 71%,#1b0e51 75%,#1b1050 79%,#0f1241 86%,#0b1637 91%,#041b2f 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-164.jpg/800px-Carcol-GTAOee-164.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-164.jpg/200px-Carcol-GTAOee-164.jpg"
+    },
+    {
+      "id": 165,
+      "name_en": "Anodized Green Pearl",
+      "name_cn": "阳极氧化绿",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Anodized Green Pearl",
+      "gradient": "linear-gradient(to right,#020400 0%,#041000 18%,#031500 41%,#001d00 53%,#002c07 62%,#033910 66%,#08471b 70%,#0b4f26 76%,#084b27 81%,#023f23 86%,#003824 89%,#00302a 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-165.jpg/800px-Carcol-GTAOee-165.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-165.jpg/200px-Carcol-GTAOee-165.jpg"
+    },
+    {
+      "id": 166,
+      "name_en": "Anodized Lime Pearl",
+      "name_cn": "阳极氧化青柠",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Anodized Lime Pearl",
+      "gradient": "linear-gradient(to right,#0a0a04 0%,#1e210e 22%,#222610 32%,#222710 42%,#243114 54%,#283f1b 61%,#2f4b23 65%,#3f6138 72%,#42673d 76%,#396237 81%,#2f5b30 84%,#234f28 89%,#1e4827 93%,#1c4329 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-166.jpg/800px-Carcol-GTAOee-166.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-166.jpg/200px-Carcol-GTAOee-166.jpg"
+    },
+    {
+      "id": 167,
+      "name_en": "Anodized Copper Pearl",
+      "name_cn": "阳极氧化铜",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Anodized Copper Pearl",
+      "gradient": "linear-gradient(to right,#0a0400 0%,#110b00 8%,#2a1b00 18%,#2b1d00 23%,#362400 32%,#402700 48%,#4f2d09 55%,#603915 62%,#644019 63%,#67411c 63%,#67431c 64%,#6a451f 64%,#704a24 66%,#724e27 66%,#7a5831 68%,#805c37 68%,#88663e 69%,#8c6742 70%,#906e47 70%,#936e47 71%,#95734c 71%,#9b7850 72%,#a48259 75%,#a38158 77%,#9b784f 80%,#7c542e 85%,#734d24 88%,#6c441d 91%,#5d3a15 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-167.jpg/800px-Carcol-GTAOee-167.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-167.jpg/200px-Carcol-GTAOee-167.jpg"
+    },
+    {
+      "id": 168,
+      "name_en": "Anodized Bronze Pearl",
+      "name_cn": "阳极氧化青铜",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Anodized Bronze Pearl",
+      "gradient": "linear-gradient(to right,#060400 0%,#0a0900 8%,#191700 19%,#201e00 33%,#221e00 44%,#241e03 49%,#292206 54%,#31280b 60%,#372e11 63%,#3f3618 66%,#433b1d 67%,#443d1e 68%,#473e21 68%,#474021 68%,#4a4224 68%,#4b4225 69%,#4f4729 70%,#4f4729 70%,#524a2c 70%,#524b2c 71%,#575031 72%,#5d5637 75%,#5b5334 78%,#544c2d 81%,#504829 81%,#504829 82%,#4d4627 82%,#463e1f 85%,#3e3516 89%,#332c0f 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-168.jpg/800px-Carcol-GTAOee-168.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-168.jpg/200px-Carcol-GTAOee-168.jpg"
+    },
+    {
+      "id": 169,
+      "name_en": "Anodized Champagne Pearl",
+      "name_cn": "阳极氧化香槟",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Anodized Champagne Pearl",
+      "gradient": "linear-gradient(to right,#080603 0%,#0a0803 5%,#0f0e05 9%,#211e0c 18%,#23210d 25%,#2b2810 32%,#2e2913 44%,#352f19 50%,#3e3721 55%,#4c432d 61%,#584e39 64%,#5a513b 64%,#5a513b 65%,#615842 65%,#635a43 66%,#6a614b 67%,#6a634b 67%,#6e654e 67%,#736b55 68%,#857d65 70%,#877f69 71%,#8b836b 71%,#8c846e 72%,#908870 72%,#978f77 74%,#9a937b 76%,#99927a 77%,#958c74 78%,#938c74 79%,#877e66 81%,#857c62 81%,#827962 82%,#766d53 84%,#746b51 84%,#71674f 85%,#64583c 88%,#5d5133 92%,#534729 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-169.jpg/800px-Carcol-GTAOee-169.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-169.jpg/200px-Carcol-GTAOee-169.jpg"
+    },
+    {
+      "id": 170,
+      "name_en": "Anodized Gold Pearl",
+      "name_cn": "阳极氧化金珍珠",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 47650,
+      "unlock": "默认",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "available": true,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Anodized Gold Pearl",
+      "gradient": "linear-gradient(to right,#0b0700 0%,#0e0b00 5%,#151200 9%,#292301 16%,#2d2701 19%,#2e2a01 23%,#3a3301 32%,#403507 48%,#524113 57%,#604d1f 62%,#62501f 62%,#6c5a2a 65%,#73612f 65%,#7e6d3d 68%,#847344 68%,#8b7949 69%,#91804f 70%,#9e8f5d 72%,#a2905e 72%,#a69663 73%,#ac9d69 75%,#ab9c69 77%,#a79764 78%,#a2915f 80%,#8e7d4b 83%,#877644 84%,#857340 84%,#766330 88%,#6c5826 92%,#5f4e1f 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-170.jpg/800px-Carcol-GTAOee-170.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-170.jpg/200px-Carcol-GTAOee-170.jpg"
+    },
+    {
+      "id": 171,
+      "name_en": "Green/Blue Flip",
+      "name_cn": "绿/蓝变色",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 48950,
+      "unlock": "默认",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "available": true,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Green/Blue Flip",
+      "gradient": "linear-gradient(to right,#011021 0%,#021220 9%,#05171d 14%,#0b2416 20%,#1e4606 32%,#275002 39%,#3d5605 51%,#4f5c0c 58%,#6a6a19 67%,#73701d 73%,#76711e 77%,#756f1c 83%,#645e0c 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-171.jpg/800px-Carcol-GTAOee-171.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-171.jpg/200px-Carcol-GTAOee-171.jpg"
+    },
+    {
+      "id": 172,
+      "name_en": "Green/Red Flip",
+      "name_cn": "绿/红变色",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Green/Red Flip",
+      "gradient": "linear-gradient(to right,#1b000c 0%,#1a000b 27%,#1c0808 35%,#251f06 43%,#334502 54%,#3b5601 61%,#4b6401 66%,#526801 67%,#637101 71%,#6f7400 76%,#6e7100 81%,#686b00 84%,#585f00 87%,#464f01 90%,#404a01 91%,#283301 95%,#1e2701 99%,#1c2502 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-172.jpg/800px-Carcol-GTAOee-172.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-172.jpg/200px-Carcol-GTAOee-172.jpg"
+    },
+    {
+      "id": 173,
+      "name_en": "Green/Brown Flip",
+      "name_cn": "绿/棕变色",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Green/Brown Flip",
+      "gradient": "linear-gradient(to right,#00141c 0%,#01141c 13%,#08131d 15%,#260f23 20%,#280f23 22%,#240f21 24%,#19111d 26%,#15121a 28%,#161218 30%,#241714 37%,#30250e 45%,#373207 54%,#3a3805 61%,#413d05 65%,#504807 69%,#524a06 71%,#484504 75%,#413b07 79%,#402619 86%,#381724 90%,#2d1324 92%,#160e1c 95%,#080a13 97%,#00050a 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-173.jpg/800px-Carcol-GTAOee-173.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-173.jpg/200px-Carcol-GTAOee-173.jpg"
+    },
+    {
+      "id": 174,
+      "name_en": "Green/Turquoise Flip",
+      "name_cn": "绿/青变色",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Green/Turquoise Flip",
+      "gradient": "linear-gradient(to right,#140122 0%,#150021 6%,#0a1c36 21%,#042737 29%,#01292e 36%,#022525 40%,#002110 51%,#00240a 57%,#002e09 62%,#03370f 66%,#12502a 73%,#195538 78%,#1a533c 82%,#16433f 90%,#193841 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-174.jpg/800px-Carcol-GTAOee-174.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-174.jpg/200px-Carcol-GTAOee-174.jpg"
+    },
+    {
+      "id": 175,
+      "name_en": "Green/Purple Flip",
+      "name_cn": "绿/紫变色",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Green/Purple Flip",
+      "gradient": "linear-gradient(to right,#160023 0%,#160023 8%,#240236 21%,#2c0b3a 31%,#271e24 47%,#27301c 57%,#28371c 59%,#2d4822 64%,#3c5f39 71%,#406440 73%,#416744 76%,#396346 80%,#295541 86%,#204840 91%,#1c3a41 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-175.jpg/800px-Carcol-GTAOee-175.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-175.jpg/200px-Carcol-GTAOee-175.jpg"
+    },
+    {
+      "id": 176,
+      "name_en": "Teal/Purple Flip",
+      "name_cn": "青/紫变色",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Teal/Purple Flip",
+      "gradient": "linear-gradient(to right,#02161d 0%,#081623 13%,#13142d 22%,#281c3c 29%,#362747 37%,#362f47 44%,#2e4746 54%,#294b43 57%,#1d4b39 62%,#104429 69%,#07391a 77%,#042c17 84%,#001f1e 94%,#001a1c 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-176.jpg/800px-Carcol-GTAOee-176.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-176.jpg/200px-Carcol-GTAOee-176.jpg"
+    },
+    {
+      "id": 177,
+      "name_en": "Turquoise/Red Flip",
+      "name_cn": "青/红变色",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Turquoise/Red Flip",
+      "gradient": "linear-gradient(to right,#1c0002 0%,#1d0002 13%,#250107 16%,#34010f 18%,#3a0213 21%,#340212 24%,#230510 27%,#1d0711 29%,#171520 38%,#09302d 53%,#063830 62%,#0a3b30 64%,#1e4830 69%,#1d4a30 72%,#114532 75%,#0b3a34 79%,#113234 82%,#1f2534 86%,#271932 88%,#2a132e 90%,#290b24 93%,#1f0513 95%,#1b0412 95%,#1a040e 95%,#110109 97%,#0a0003 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-177.jpg/800px-Carcol-GTAOee-177.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-177.jpg/200px-Carcol-GTAOee-177.jpg"
+    },
+    {
+      "id": 178,
+      "name_en": "Turquoise/Purple Flip",
+      "name_cn": "青/紫变色",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Turquoise/Purple Flip",
+      "gradient": "linear-gradient(to right,#001c1a 0%,#011c1a 13%,#0e191d 16%,#12181e 16%,#251522 20%,#271423 22%,#221522 24%,#12161f 27%,#0d161e 29%,#121a24 38%,#09302d 52%,#053730 60%,#0a3c30 64%,#1e4830 69%,#1f4a2f 71%,#1a4930 73%,#114532 75%,#0b3a35 79%,#132f35 83%,#221f35 88%,#251a33 90%,#1f152c 93%,#080c12 97%,#00060a 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-178.jpg/800px-Carcol-GTAOee-178.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-178.jpg/200px-Carcol-GTAOee-178.jpg"
+    },
+    {
+      "id": 179,
+      "name_en": "Cyan/Red Flip",
+      "name_cn": "蓝绿/紫变色",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Cyan/Red Flip",
+      "gradient": "linear-gradient(to right,#02021d 0%,#09061f 8%,#0f0823 13%,#200f2b 20%,#45213c 33%,#49263e 36%,#463145 44%,#373748 51%,#1f3a4d 60%,#183a4b 64%,#08363e 74%,#052c31 82%,#001324 89%,#00071f 94%,#00021c 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-179.jpg/800px-Carcol-GTAOee-179.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-179.jpg/200px-Carcol-GTAOee-179.jpg"
+    },
+    {
+      "id": 180,
+      "name_en": "Blue/Pink Flip",
+      "name_cn": "蓝/粉变色",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Blue/Pink Flip",
+      "gradient": "linear-gradient(to right,#10021d 0%,#150320 5%,#16061f 8%,#1f0824 14%,#280c28 17%,#371a25 28%,#432028 32%,#49262c 36%,#492b32 41%,#443648 50%,#38324a 53%,#28284b 57%,#1f234d 60%,#121c47 67%,#0d1d40 71%,#08193e 74%,#051733 81%,#05112d 84%,#000125 89%,#0a001e 95%,#0c001c 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-180.jpg/800px-Carcol-GTAOee-180.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-180.jpg/200px-Carcol-GTAOee-180.jpg"
+    },
+    {
+      "id": 181,
+      "name_en": "Blue/Green Flip",
+      "name_cn": "蓝/绿变色",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Blue/Green Flip",
+      "gradient": "linear-gradient(to right,#200214 0%,#210013 6%,#1a0a16 14%,#0a1c1b 25%,#001f1c 34%,#000e1c 51%,#000724 59%,#000230 63%,#07063e 67%,#100c47 69%,#1d1951 73%,#252457 77%,#232c53 82%,#1b2b48 88%,#192943 93%,#1a2641 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-181.jpg/800px-Carcol-GTAOee-181.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-181.jpg/200px-Carcol-GTAOee-181.jpg"
+    },
+    {
+      "id": 182,
+      "name_en": "Purple/Red Flip",
+      "name_cn": "紫/红变色",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Purple/Red Flip",
+      "gradient": "linear-gradient(to right,#23001b 0%,#22011b 26%,#18041e 34%,#110329 41%,#110345 49%,#1a025a 55%,#310170 64%,#3b0176 68%,#430079 73%,#430074 77%,#3e006b 81%,#180139 95%,#10022d 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-182.jpg/800px-Carcol-GTAOee-182.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-182.jpg/200px-Carcol-GTAOee-182.jpg"
+    },
+    {
+      "id": 183,
+      "name_en": "Purple/Green Flip",
+      "name_cn": "紫/绿变色",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 52500,
+      "unlock": "默认",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "available": true,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Purple/Green Flip",
+      "gradient": "linear-gradient(to right,#011f1f 0%,#001d1e 7%,#00141a 13%,#020525 24%,#16053c 35%,#240252 44%,#480171 58%,#540177 63%,#5b0079 68%,#5a0073 74%,#52006a 79%,#410057 85%,#29013f 92%,#1c0131 97%,#18012d 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-183.jpg/800px-Carcol-GTAOee-183.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-183.jpg/200px-Carcol-GTAOee-183.jpg"
+    },
+    {
+      "id": 184,
+      "name_en": "Magenta/Green Flip",
+      "name_cn": "品红/绿变色",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Magenta/Green Flip",
+      "gradient": "linear-gradient(to right,#1c0002 0%,#1c0002 12%,#250007 15%,#370110 18%,#3e0115 20%,#3e0217 23%,#360416 26%,#340619 28%,#401225 37%,#401c23 41%,#382e14 51%,#33380a 62%,#373d09 65%,#424808 69%,#434a06 71%,#384504 75%,#313c07 79%,#342e11 84%,#382319 86%,#37131f 90%,#310b1b 93%,#140208 97%,#0a0003 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-184.jpg/800px-Carcol-GTAOee-184.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-184.jpg/200px-Carcol-GTAOee-184.jpg"
+    },
+    {
+      "id": 185,
+      "name_en": "Magenta/Yellow Flip",
+      "name_cn": "品红/黄变色",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Magenta/Yellow Flip",
+      "gradient": "linear-gradient(to right,#1d0015 0%,#20001b 6%,#280736 21%,#330f41 29%,#3f1947 35%,#462546 42%,#48343a 50%,#504131 54%,#605329 58%,#645923 60%,#625721 62%,#5d5220 64%,#4a401e 67%,#41351d 70%,#322016 76%,#2a1310 82%,#240a0e 87%,#1d020e 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-185.jpg/800px-Carcol-GTAOee-185.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-185.jpg/200px-Carcol-GTAOee-185.jpg"
+    },
+    {
+      "id": 186,
+      "name_en": "Burgundy/Green Flip",
+      "name_cn": "酒红/绿变色",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Burgundy/Green Flip",
+      "gradient": "linear-gradient(to right,#1e0e03 0%,#221707 9%,#2a2b12 19%,#2b3517 25%,#2e451d 31%,#345b21 37%,#385f24 40%,#3d5d29 42%,#44522f 46%,#483f31 50%,#47252a 58%,#3e1324 66%,#27041e 78%,#1b011b 86%,#160021 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-186.jpg/800px-Carcol-GTAOee-186.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-186.jpg/200px-Carcol-GTAOee-186.jpg"
+    },
+    {
+      "id": 187,
+      "name_en": "Magenta/Cyan Flip",
+      "name_cn": "品红/青变色",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Magenta/Cyan Flip",
+      "gradient": "linear-gradient(to right,#022010 0%,#00210e 6%,#031f12 9%,#1c0d32 23%,#250239 31%,#260038 35%,#21002e 41%,#1f0023 50%,#240020 58%,#290020 62%,#350124 65%,#41072b 68%,#4a1533 71%,#4e1d3a 74%,#4e233c 76%,#4a263d 79%,#3a2338 85%,#2b2338 89%,#242339 93%,#1e233e 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-187.jpg/800px-Carcol-GTAOee-187.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-187.jpg/200px-Carcol-GTAOee-187.jpg"
+    },
+    {
+      "id": 188,
+      "name_en": "Copper/Purple Flip",
+      "name_cn": "铜/紫变色",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Copper/Purple Flip",
+      "gradient": "linear-gradient(to right,#170320 0%,#150021 2%,#150121 6%,#19051f 9%,#32280f 22%,#352e0c 26%,#353009 31%,#312d09 35%,#1a1214 50%,#160621 58%,#1a0229 62%,#210135 65%,#2d063f 68%,#42114b 72%,#4e194e 76%,#4f1a45 82%,#47172d 88%,#441925 91%,#41231c 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-188.jpg/800px-Carcol-GTAOee-188.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-188.jpg/200px-Carcol-GTAOee-188.jpg"
+    },
+    {
+      "id": 189,
+      "name_en": "Magenta/Orange Flip",
+      "name_cn": "品红/橙变色",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Magenta/Orange Flip",
+      "gradient": "linear-gradient(to right,#00011c 0%,#06011d 6%,#0e0120 10%,#230124 15%,#280124 18%,#270124 22%,#1d011e 28%,#1d001c 32%,#2e0018 42%,#390116 52%,#420814 59%,#4d1412 64%,#501612 68%,#501214 73%,#460518 80%,#410027 87%,#400030 92%,#360031 96%,#22012a 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-189.jpg/800px-Carcol-GTAOee-189.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-189.jpg/200px-Carcol-GTAOee-189.jpg"
+    },
+    {
+      "id": 190,
+      "name_en": "Red/Orange Flip",
+      "name_cn": "红/橙变色",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Red/Orange Flip",
+      "gradient": "linear-gradient(to right,#030215 0%,#0a0712 15%,#120c11 22%,#1b120f 26%,#34220b 32%,#4a3209 36%,#4e3409 36%,#503408 37%,#553908 37%,#563908 38%,#5a3c08 38%,#694806 41%,#6f4b05 41%,#7e5603 45%,#8b5d03 48%,#916102 51%,#906002 54%,#895803 57%,#7a4a04 62%,#734304 63%,#5d2b07 69%,#521d08 75%,#551406 84%,#5f1103 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-190.jpg/800px-Carcol-GTAOee-190.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-190.jpg/200px-Carcol-GTAOee-190.jpg"
+    },
+    {
+      "id": 191,
+      "name_en": "Orange/Purple Flip",
+      "name_cn": "橙/紫变色",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 50300,
+      "unlock": "默认",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "available": true,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Orange/Purple Flip",
+      "gradient": "linear-gradient(to right,#280039 0%,#2a0034 9%,#330227 17%,#460516 25%,#5c090c 31%,#861804 41%,#a62902 48%,#bf4102 54%,#d15901 60%,#d96801 65%,#da6d00 68%,#d56f00 72%,#cf6d00 75%,#c06500 78%,#ae5900 82%,#8d4101 87%,#894001 88%,#7f3801 90%,#7b3501 90%,#7a3501 91%,#672601 94%,#551b01 98%,#511701 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-191.jpg/800px-Carcol-GTAOee-191.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-191.jpg/200px-Carcol-GTAOee-191.jpg"
+    },
+    {
+      "id": 192,
+      "name_en": "Orange/Blue Flip",
+      "name_cn": "橙/蓝变色",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Orange/Blue Flip",
+      "gradient": "linear-gradient(to right,#0e0121 0%,#100420 12%,#170d1d 20%,#231b18 28%,#312b12 35%,#3e360f 40%,#493f0d 46%,#59460e 56%,#6e4712 73%,#985703 93%,#9d5901 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-192.jpg/800px-Carcol-GTAOee-192.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-192.jpg/200px-Carcol-GTAOee-192.jpg"
+    },
+    {
+      "id": 193,
+      "name_en": "White/Purple Flip",
+      "name_cn": "白/紫变色",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "White/Purple Flip",
+      "gradient": "linear-gradient(to right,#022010 0%,#00210e 6%,#031f12 9%,#1a122e 21%,#290e37 29%,#2f1137 34%,#301e28 45%,#372926 52%,#403328 57%,#514632 62%,#5a513b 64%,#5a513b 65%,#605842 65%,#625943 66%,#635d47 66%,#69634e 68%,#6d6751 68%,#726b58 69%,#746f5a 69%,#7d7964 70%,#858472 73%,#868675 74%,#848676 76%,#797e72 80%,#687069 83%,#5f6663 85%,#58615f 86%,#545f5f 86%,#495155 88%,#3d464f 91%,#2c3546 96%,#232c43 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-193.jpg/800px-Carcol-GTAOee-193.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-193.jpg/200px-Carcol-GTAOee-193.jpg"
+    },
+    {
+      "id": 194,
+      "name_en": "Red Rainbow Flip",
+      "name_cn": "红彩虹变色",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Red Rainbow Flip",
+      "gradient": "linear-gradient(to right,#00381b 0%,#00381b 13%,#000338 35%,#000038 37%,#000038 47%,#170038 59%,#28001e 73%,#3c001a 79%,#45000e 85%,#45000d 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-194.jpg/800px-Carcol-GTAOee-194.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-194.jpg/200px-Carcol-GTAOee-194.jpg"
+    },
+    {
+      "id": 195,
+      "name_en": "Blue Rainbow Flip",
+      "name_cn": "蓝彩虹变色",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Blue Rainbow Flip",
+      "gradient": "linear-gradient(to right,#00381b 0%,#00381b 13%,#000338 35%,#000038 37%,#000038 47%,#170038 59%,#28001e 73%,#3c001a 79%,#45000e 85%,#45000d 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-195.jpg/800px-Carcol-GTAOee-195.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-195.jpg/200px-Carcol-GTAOee-195.jpg"
+    },
+    {
+      "id": 196,
+      "name_en": "Dark Green Pearl",
+      "name_cn": "暗绿珍珠",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Dark Green Pearl",
+      "gradient": "linear-gradient(to right,#040c01 0%,#050f04 12%,#0b1209 21%,#17130e 30%,#1e140d 36%,#1f150b 41%,#19190f 50%,#1e1710 58%,#171b0b 64%,#0b2109 68%,#032414 73%,#05221b 81%,#0d1a13 88%,#0a0f07 95%,#050902 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-196.jpg/800px-Carcol-GTAOee-196.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-196.jpg/200px-Carcol-GTAOee-196.jpg"
+    },
+    {
+      "id": 197,
+      "name_en": "Dark Teal Pearl",
+      "name_cn": "暗青珍珠",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Dark Teal Pearl",
+      "gradient": "linear-gradient(to right,#000912 0%,#010a15 10%,#050e1b 19%,#13121b 32%,#151518 40%,#121a1a 48%,#181916 56%,#161a13 60%,#0d1e15 65%,#032121 70%,#021f2c 74%,#071d31 78%,#0a1a2e 82%,#0c1723 87%,#060b0d 95%,#020607 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-197.jpg/800px-Carcol-GTAOee-197.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-197.jpg/200px-Carcol-GTAOee-197.jpg"
+    },
+    {
+      "id": 198,
+      "name_en": "Dark Blue Pearl",
+      "name_cn": "暗蓝珍珠",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Dark Blue Pearl",
+      "gradient": "linear-gradient(to right,#000119 0%,#030222 18%,#0d0321 30%,#0e0720 39%,#0a091b 46%,#0b0c19 51%,#0f0b11 57%,#0d0d0e 60%,#07100e 63%,#011213 66%,#010f2a 78%,#010e2b 80%,#040922 87%,#03040f 93%,#05040a 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-198.jpg/800px-Carcol-GTAOee-198.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-198.jpg/200px-Carcol-GTAOee-198.jpg"
+    },
+    {
+      "id": 199,
+      "name_en": "Dark Purple Pearl",
+      "name_cn": "暗紫珍珠",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 50300,
+      "unlock": "默认",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "available": true,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Dark Purple Pearl",
+      "gradient": "linear-gradient(to right,#12001a 0%,#110019 2%,#1a0325 20%,#240526 28%,#2a0623 35%,#290921 41%,#1e101f 50%,#1f111a 56%,#1b1416 60%,#0f191a 66%,#091a25 70%,#0a1731 75%,#0e1434 78%,#151131 83%,#170f2a 86%,#130b15 94%,#10080e 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-199.jpg/800px-Carcol-GTAOee-199.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-199.jpg/200px-Carcol-GTAOee-199.jpg"
+    },
+    {
+      "id": 200,
+      "name_en": "Oil Slick Pearl",
+      "name_cn": "油污珍珠",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Oil Slick Pearl",
+      "gradient": [
+        "#151515",
+        "#3e8e41",
+        "#7b1fa2",
+        "#1565c0"
+      ],
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-200.jpg/800px-Carcol-GTAOee-200.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-200.jpg/200px-Carcol-GTAOee-200.jpg"
+    },
+    {
+      "id": 201,
+      "name_en": "Light Green Pearl",
+      "name_cn": "浅绿珍珠",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Light Green Pearl",
+      "gradient": "linear-gradient(to right,#76a18d 0%,#799f91 6%,#7f99a1 18%,#8892aa 35%,#8894a7 39%,#819999 45%,#809b94 48%,#839994 53%,#899597 56%,#909393 62%,#8e958e 65%,#829d84 70%,#7ba086 75%,#79a08d 81%,#78a08a 100%);color:var(--gtawiki-text-uni-black)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-201.jpg/800px-Carcol-GTAOee-201.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-201.jpg/200px-Carcol-GTAOee-201.jpg"
+    },
+    {
+      "id": 202,
+      "name_en": "Light Blue Pearl",
+      "name_cn": "浅蓝珍珠",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Light Blue Pearl",
+      "gradient": [
+        "#1a1a2a",
+        "#64b5f6"
+      ],
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-202.jpg/800px-Carcol-GTAOee-202.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-202.jpg/200px-Carcol-GTAOee-202.jpg"
+    },
+    {
+      "id": 203,
+      "name_en": "Light Purple Pearl",
+      "name_cn": "浅紫珍珠",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Light Purple Pearl",
+      "gradient": "linear-gradient(to right,#ac88c7 0%,#a58ec0 6%,#8f9cae 15%,#899fab 21%,#909bb3 34%,#9597b6 38%,#a290bb 44%,#a58fb9 50%,#a094ae 57%,#939f93 66%,#8ba48d 70%,#88a68e 73%,#8aa29a 77%,#9b95b2 84%,#a48fbb 88%,#b186c6 96%,#b285c8 100%);color:var(--gtawiki-text-uni-black)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-203.jpg/800px-Carcol-GTAOee-203.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-203.jpg/200px-Carcol-GTAOee-203.jpg"
+    },
+    {
+      "id": 204,
+      "name_en": "Light Pink Pearl",
+      "name_cn": "浅粉珍珠",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Light Pink Pearl",
+      "gradient": [
+        "#2a1a20",
+        "#f8bbd0"
+      ],
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-204.jpg/800px-Carcol-GTAOee-204.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-204.jpg/200px-Carcol-GTAOee-204.jpg"
+    },
+    {
+      "id": 205,
+      "name_en": "Off White Pearl",
+      "name_cn": "灰白珍珠",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Off White Pearl",
+      "gradient": [
+        "#2a2a25",
+        "#f5f5f0"
+      ],
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-205.jpg/800px-Carcol-GTAOee-205.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-205.jpg/200px-Carcol-GTAOee-205.jpg"
+    },
+    {
+      "id": 206,
+      "name_en": "Soft Pink Pearl",
+      "name_cn": "粉珍珠",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Soft Pink Pearl",
+      "gradient": "linear-gradient(to right,#24240e 0%,#272013 2%,#212419 4%,#20251f 6%,#242720 8%,#262c24 9%,#2a2d26 10%,#2b2f28 10%,#2b242a 10%,#2d222c 10%,#30252e 10%,#382b3e 12%,#3c2d48 13%,#3c2c62 14%,#3d2c68 14%,#3d2e68 15%,#412f6b 15%,#423b71 16%,#453f73 16%,#453f73 16%,#464475 16%,#494875 17%,#4e546f 18%,#5e546e 18%,#685272 19%,#66537a 20%,#605c81 21%,#5c5e82 22%,#5c6682 23%,#5f707e 24%,#617279 24%,#7a7474 25%,#927375 26%,#aa6e77 27%,#b46681 28%,#b66188 29%,#a4638c 32%,#986c91 35%,#9a6e8e 38%,#aa738b 40%,#ac728c 41%,#a56991 43%,#a46990 44%,#a3718e 45%,#a1718c 45%,#9d7389 45%,#957683 47%,#94746d 49%,#967466 49%,#9b6f5f 50%,#b7695a 50%,#c4625a 51%,#c9525d 52%,#c84e61 52%,#c64a61 52%,#b54265 54%,#a7416c 55%,#a34070 56%,#9e3f71 56%,#9b3d75 56%,#983b7d 58%,#993c8e 60%,#933f9d 61%,#8a43a5 62%,#7e46a8 63%,#7a48ab 63%,#5f55b1 66%,#5362b3 68%,#5168b3 69%,#5472b2 71%,#5975b1 71%,#5a75b0 72%,#667baf 73%,#a186ab 79%,#b08aad 81%,#c190b4 84%,#c591b6 84%,#c692b7 84%,#ca93b9 85%,#cb94bc 85%,#d096be 86%,#da9dc9 88%,#e1a0d0 89%,#f0abe9 93%,#f8b0f6 97%,#fab2fa 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-206.jpg/800px-Carcol-GTAOee-206.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-206.jpg/200px-Carcol-GTAOee-206.jpg"
+    },
+    {
+      "id": 207,
+      "name_en": "Pastel Yellow Pearl",
+      "name_cn": "黄珍珠",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Pastel Yellow Pearl",
+      "gradient": "linear-gradient(to right,#24240e 0%,#272013 2%,#212419 4%,#20251f 6%,#242720 8%,#262b21 9%,#2b2e29 10%,#2b2c20 10%,#2e2b20 10%,#363329 12%,#3c3835 13%,#3d3936 13%,#3d3748 14%,#3d374b 15%,#413a4c 15%,#465353 16%,#4c6451 18%,#55674e 18%,#5f684e 18%,#686752 19%,#686555 20%,#62705b 21%,#5e735c 22%,#5d755c 22%,#5d7c5c 23%,#618b58 24%,#668f56 25%,#748f52 25%,#839153 26%,#8c8d52 26%,#908d52 26%,#a18c52 26%,#ab8754 27%,#ad8756 27%,#b38058 27%,#b67b5e 28%,#b57861 29%,#a57a63 32%,#9c8466 34%,#988666 36%,#9b8864 38%,#ab8e62 40%,#ad8e62 41%,#ad8d64 42%,#a68266 43%,#a58266 44%,#a28c63 45%,#9d8e61 45%,#989260 46%,#939155 48%,#93904c 49%,#9b8b44 50%,#b08540 50%,#c3793f 51%,#ca6e41 51%,#ca6543 52%,#c96044 52%,#c55d44 52%,#b45248 54%,#9c4d52 56%,#99495b 58%,#964d6d 61%,#905170 62%,#8b5172 62%,#8b5374 62%,#67637c 65%,#58717e 67%,#527d7e 68%,#52877e 70%,#5d937c 72%,#6a9a7b 74%,#759d7a 75%,#7d9e7a 75%,#85a179 77%,#a7a879 80%,#c8b581 84%,#c9b583 85%,#d0ba87 86%,#d8be8b 87%,#e0c593 88%,#e2c593 89%,#e3c796 89%,#f1d3a5 93%,#f9d9ae 97%,#fbdbb1 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-207.jpg/800px-Carcol-GTAOee-207.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-207.jpg/200px-Carcol-GTAOee-207.jpg"
+    },
+    {
+      "id": 208,
+      "name_en": "Pastel Green Pearl",
+      "name_cn": "绿珍珠",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Pastel Green Pearl",
+      "gradient": "linear-gradient(to right,#24240e 0%,#272013 2%,#242013 2%,#20251c 5%,#21261f 7%,#242720 8%,#2c2f28 10%,#203029 10%,#1f322a 10%,#253732 11%,#2b4044 13%,#2b3f61 14%,#2b3f64 15%,#2f4768 15%,#2f4c69 15%,#32606f 16%,#346f6d 17%,#3b7668 18%,#487769 19%,#4a736c 19%,#4a7372 20%,#467a78 21%,#42837b 22%,#42907b 23%,#43967a 23%,#44a175 24%,#52a46e 25%,#68a36e 26%,#6fa06e 26%,#769e71 27%,#7c9773 27%,#808f7b 28%,#808982 29%,#758c85 31%,#6e9788 34%,#6b9989 36%,#6d9b86 38%,#7aa384 41%,#7aa087 42%,#749589 43%,#749688 44%,#749e86 45%,#6ca582 46%,#6aa77e 47%,#68a66d 48%,#6da15c 49%,#7c9855 50%,#889055 50%,#8f7d58 51%,#8f6e5a 52%,#89655b 53%,#85645d 53%,#805f5f 54%,#7f5f63 54%,#70586b 56%,#6f586f 56%,#6c5477 58%,#6b5890 61%,#605f9c 62%,#5667a1 64%,#526aa3 64%,#4c6ea5 65%,#4872a6 65%,#3e83a9 67%,#3b87a9 67%,#3ca1a8 71%,#4eb2a4 74%,#74c0a2 79%,#7cc4a4 81%,#86c9a7 83%,#8ed0b0 85%,#93d4b2 85%,#93d4b4 86%,#96d7b6 86%,#99dcbc 87%,#9cdebe 88%,#a9efd9 92%,#aff8e7 96%,#b2fbec 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-208.jpg/800px-Carcol-GTAOee-208.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-208.jpg/200px-Carcol-GTAOee-208.jpg"
+    },
+    {
+      "id": 209,
+      "name_en": "Baby Blue Pearl",
+      "name_cn": "婴儿蓝珍珠",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 61900,
+      "unlock": "默认",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "available": true,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Baby Blue Pearl",
+      "gradient": "linear-gradient(to right,#24240e 0%,#272013 2%,#242013 2%,#20251c 5%,#21261f 7%,#242720 8%,#2c3029 10%,#20262a 10%,#272e3e 12%,#2b3348 13%,#2b3162 14%,#2b3268 15%,#2f376d 15%,#324b75 16%,#345673 17%,#3b5c6e 18%,#485e6f 19%,#4a5b72 19%,#4a5b78 20%,#426882 22%,#427282 23%,#437a7f 24%,#457e79 24%,#528174 25%,#6d7e75 26%,#6f7e75 26%,#767c77 27%,#7c7679 27%,#7f747d 27%,#816f84 28%,#7e6c8a 30%,#756e8c 31%,#6c7891 35%,#6d7a8e 38%,#7a808b 41%,#7a7f8e 42%,#757591 43%,#757590 44%,#747d8e 45%,#708089 45%,#6a8385 47%,#68826d 49%,#6e7d5f 50%,#7c775a 50%,#88725a 50%,#8d6a5a 51%,#8f5d5d 52%,#8f5760 52%,#844c64 54%,#7a4869 55%,#744670 56%,#6d4376 57%,#6c4283 59%,#6c4496 60%,#614ba5 62%,#5d4ca6 63%,#5650ab 63%,#5252ab 64%,#4859b0 65%,#3e67b3 67%,#3b6bb3 67%,#3a6fb3 68%,#3c7fb2 71%,#4a8aae 74%,#7496ab 79%,#7c9aad 81%,#869eb1 83%,#9cadc9 88%,#a4b7db 90%,#abbeeb 94%,#b0c3f6 97%,#b2c5fa 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-209.jpg/800px-Carcol-GTAOee-209.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-209.jpg/200px-Carcol-GTAOee-209.jpg"
+    },
+    {
+      "id": 210,
+      "name_en": "Cream Pearl",
+      "name_cn": "奶油珍珠",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Cream Pearl",
+      "gradient": "linear-gradient(to right,#605d52 0%,#635a55 1%,#5b5c5b 4%,#5a5b5c 6%,#5d5e5a 8%,#62615f 10%,#656462 10%,#6a686b 12%,#6c6979 13%,#6a6688 14%,#686391 15%,#6c8198 17%,#6c8497 17%,#6d8e92 18%,#6d8e90 18%,#75918d 18%,#84918c 19%,#868d8e 19%,#868b92 19%,#818c95 20%,#729799 22%,#709a98 23%,#6fa196 23%,#70ac93 24%,#71af8d 24%,#79b389 25%,#7db285 25%,#92b284 26%,#aeac84 26%,#b7a786 27%,#c09a8c 28%,#bf9292 29%,#bb9193 30%,#b39393 31%,#ac9493 31%,#ac9494 32%,#a99694 32%,#a99694 33%,#a39b95 34%,#9d9d95 35%,#9d9e91 37%,#aea58d 41%,#afa290 42%,#a89793 43%,#a79892 44%,#a6a090 45%,#a4a28e 45%,#9fa58b 45%,#9da78b 46%,#97a985 47%,#95a76f 49%,#9ca362 49%,#9da062 50%,#ba975b 50%,#c68d5b 51%,#cd7b5e 51%,#cc6f62 52%,#c86b62 52%,#c46862 53%,#ba6165 54%,#a25973 56%,#9e5977 56%,#9a557f 58%,#9b568e 59%,#98599c 61%,#925da1 62%,#8d5fa3 62%,#8c60a7 62%,#756aad 64%,#6d70b1 65%,#6974b2 65%,#5884b5 67%,#548cb5 68%,#5399b5 69%,#57a5b3 71%,#68b1b1 73%,#a4c1ad 79%,#c0cbb3 83%,#cad2b9 84%,#ccd2bb 85%,#d3d7c1 86%,#d3d7c1 86%,#d7dac3 86%,#e5e5d3 89%,#f4f4ec 93%,#fbfbf7 96%,#fefefd 100%);color:var(--gtawiki-text-uni-black)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-210.jpg/800px-Carcol-GTAOee-210.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-210.jpg/200px-Carcol-GTAOee-210.jpg"
+    },
+    {
+      "id": 211,
+      "name_en": "White Prismatic Pearl",
+      "name_cn": "白棱镜",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "White Prismatic Pearl",
+      "gradient": "linear-gradient(to right,#1a2112 0%,#1b2317 2%,#1e261d 3%,#222e20 4%,#232e25 4%,#232e25 5%,#2a3e34 6%,#2a3e34 6%,#2e453c 6%,#345044 7%,#3e6448 10%,#4c6a48 11%,#746b4e 12%,#7d6857 13%,#886661 14%,#896966 15%,#89696a 15%,#886b6b 15%,#886e6f 16%,#89777b 17%,#877c83 18%,#85808c 19%,#858290 20%,#8a899a 21%,#9b97ad 23%,#aba7be 23%,#b2b0c2 24%,#b4b0c3 24%,#bcb8cb 24%,#c2bfd3 25%,#c8c5d8 26%,#c9c6dd 27%,#c6c5df 28%,#babbde 30%,#b2b4df 31%,#b1b1de 31%,#abafde 31%,#959cde 33%,#7073eb 34%,#6569ef 35%,#5e68ee 36%,#5a6eee 36%,#5179ea 37%,#4a85e5 38%,#4795db 39%,#439dd2 40%,#40a4c7 40%,#41a9b9 41%,#45abb2 41%,#53acac 41%,#68a7a8 42%,#6b99a8 43%,#6695a8 43%,#4e96a4 45%,#429ca0 46%,#319f9c 47%,#29a397 47%,#23a88c 48%,#1faa8b 49%,#1fae87 49%,#1eb57d 50%,#1ec174 50%,#24ca65 51%,#32cc5a 51%,#38cd53 52%,#3dcd51 52%,#47cc4f 52%,#4bcc4b 52%,#56c946 52%,#70c542 53%,#7cc33e 53%,#a2b73b 54%,#a9b13b 54%,#b5ae3b 54%,#b9a83b 55%,#c89f3a 55%,#d1963d 55%,#d48e3f 56%,#d78c3f 56%,#de7c41 56%,#df6f45 57%,#de6047 58%,#dc5b4a 58%,#d7554c 59%,#cf4f4d 59%,#bd494d 61%,#9b464e 63%,#97474e 63%,#754956 66%,#5d4c62 68%,#5b4c63 69%,#574d64 69%,#534f6b 70%,#545371 72%,#555575 72%,#575776 73%,#5d5d7d 73%,#656582 74%,#6d6c8a 75%,#6d6e8a 75%,#74748e 75%,#74748e 76%,#797992 76%,#838399 77%,#88889d 77%,#8a8aa0 77%,#9292a6 77%,#a4a4b0 79%,#a8a8b4 79%,#b1b3b9 80%,#b6b6bc 80%,#bbbbc1 81%,#bfbfc2 81%,#c0c0c4 82%,#c3c3c4 82%,#c8c8c9 84%,#cacaca 86%,#cacaca 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-211.jpg/800px-Carcol-GTAOee-211.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-211.jpg/200px-Carcol-GTAOee-211.jpg"
+    },
+    {
+      "id": 212,
+      "name_en": "Graphite Prismatic Pearl",
+      "name_cn": "石墨棱镜",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Graphite Prismatic Pearl",
+      "gradient": "linear-gradient(to right,#171e0f 0%,#192217 4%,#1b271b 4%,#1c2c22 5%,#213f31 7%,#244a31 9%,#2e502d 10%,#4d512e 12%,#594c32 12%,#634539 13%,#64443e 14%,#614542 15%,#5e4645 16%,#5e4645 16%,#5c4b4c 17%,#535059 19%,#535260 21%,#585767 23%,#5f5f6d 24%,#666572 24%,#686571 25%,#686575 25%,#6a6976 25%,#6f6f7e 27%,#6d718e 30%,#656b9c 32%,#595fad 33%,#474bc1 34%,#3e44c9 35%,#3b47cb 36%,#3b4dcd 36%,#395ecd 37%,#3362cd 37%,#327bc9 39%,#3186c0 39%,#318abe 40%,#3097b0 40%,#3199ab 41%,#369ea2 41%,#439f9e 41%,#559d9b 42%,#60949c 42%,#608e9d 43%,#5c8c9e 43%,#4e8d9e 44%,#43919c 45%,#3f959b 45%,#37969a 46%,#289d95 47%,#249f91 48%,#1da788 49%,#1bb27e 49%,#1fc56a 50%,#29ca5b 51%,#3bcc50 52%,#5bc745 53%,#68c542 53%,#6fc440 53%,#97b93b 54%,#b4ae3a 54%,#b8a83a 55%,#c79f39 55%,#d58e3e 56%,#d78c3e 56%,#de7842 57%,#de6047 58%,#dc5a4b 58%,#cf4f4d 59%,#c24a4d 60%,#aa474d 62%,#9a454d 63%,#91464f 64%,#894650 64%,#754854 66%,#62495b 67%,#4f4862 69%,#4a4764 70%,#484968 73%,#4d4e6a 75%,#55546c 77%,#57586d 77%,#64646f 79%,#6e6e70 82%,#707070 84%,#707070 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-212.jpg/800px-Carcol-GTAOee-212.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-212.jpg/200px-Carcol-GTAOee-212.jpg"
+    },
+    {
+      "id": 213,
+      "name_en": "Blue Prismatic Pearl",
+      "name_cn": "暗蓝棱镜",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Blue Prismatic Pearl",
+      "gradient": "linear-gradient(to right,#131c0d 0%,#131d13 3%,#122218 5%,#11281e 6%,#112a22 6%,#103125 7%,#0e3425 8%,#0f3b22 10%,#183d1c 11%,#243d1b 11%,#37361c 12%,#3e3121 13%,#402c25 14%,#3f2827 14%,#372729 15%,#31282d 17%,#292a34 18%,#262b34 19%,#222b37 19%,#1a283d 21%,#0f243d 25%,#122944 27%,#1e365b 30%,#263c73 32%,#263a8f 33%,#1d2ca8 34%,#1a2bb1 35%,#1a2db5 36%,#1d3bba 36%,#1b4ebc 37%,#1a5cbc 38%,#1c68bc 38%,#1e7bb4 39%,#1e7cb1 40%,#1f8aa8 40%,#1f8ca2 40%,#24919b 41%,#2e9497 41%,#489393 42%,#528d93 42%,#558c96 42%,#548599 43%,#448899 44%,#379297 46%,#279795 47%,#1da18b 48%,#1ba784 49%,#19a983 49%,#19b878 50%,#19b972 50%,#1bbe71 50%,#1dc26a 50%,#25c85d 51%,#3acb4f 52%,#44ca4c 52%,#48ca49 52%,#67c641 53%,#6ec441 53%,#8ebc3b 54%,#a2b63a 54%,#a8b03a 54%,#b4ad3a 54%,#c79e39 55%,#d48e3e 56%,#d98640 56%,#df7044 57%,#dd5d49 58%,#dc5b4b 58%,#cf4f4d 59%,#bd494d 61%,#9b454d 63%,#784652 66%,#5f4659 67%,#4d445d 69%,#3c3e5e 71%,#2c3459 74%,#112343 78%,#051d36 81%,#011b32 84%,#011b32 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-213.jpg/800px-Carcol-GTAOee-213.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-213.jpg/200px-Carcol-GTAOee-213.jpg"
+    },
+    {
+      "id": 214,
+      "name_en": "Purple Prismatic Pearl",
+      "name_cn": "暗紫棱镜",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Purple Prismatic Pearl",
+      "gradient": "linear-gradient(to right,#141b0d 0%,#151d13 4%,#142923 7%,#133025 8%,#143522 10%,#1d371c 11%,#2c371b 11%,#3e301c 12%,#472822 13%,#482126 14%,#441e29 15%,#3d1e2a 16%,#3a1e2d 17%,#331f34 18%,#271d3c 20%,#22113d 24%,#261544 27%,#2a1c4f 29%,#2d2154 29%,#30245b 30%,#332d70 32%,#322f8b 33%,#302e93 33%,#2c2a96 34%,#2623a8 34%,#2322b1 35%,#2225b5 36%,#232bb8 36%,#2240bb 37%,#2241ba 37%,#2048bc 37%,#1f55bd 38%,#215fbc 38%,#2270b9 39%,#2278b1 40%,#2386a8 40%,#278c9b 41%,#2b8e99 41%,#389195 41%,#439194 41%,#518f93 42%,#578896 42%,#588596 43%,#538399 44%,#488699 44%,#438998 45%,#389097 46%,#259993 47%,#209b8e 48%,#1aa684 49%,#1aad80 49%,#19b079 50%,#19b778 50%,#19b972 50%,#1dc36a 50%,#25c85d 51%,#2dc956 51%,#49c949 52%,#5ec643 53%,#6ec341 53%,#8ebb3b 54%,#a8af3a 54%,#b4ad3a 54%,#c79e39 55%,#d48d3e 56%,#d68b3e 56%,#dd7d42 56%,#df6c46 57%,#dd5d49 58%,#dc5b4b 58%,#d3514c 59%,#c44b4d 60%,#be4a4d 60%,#9a454d 63%,#864550 65%,#6f4656 66%,#52435c 68%,#433e5e 70%,#3b375d 72%,#332f59 74%,#302855 75%,#2a1e4f 76%,#2a1d4d 77%,#271b4b 77%,#1f0a3c 80%,#1b0334 82%,#1a0132 84%,#1a0132 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-214.jpg/800px-Carcol-GTAOee-214.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-214.jpg/200px-Carcol-GTAOee-214.jpg"
+    },
+    {
+      "id": 215,
+      "name_en": "Pink Prismatic Pearl",
+      "name_cn": "亮粉棱镜",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Pink Prismatic Pearl",
+      "gradient": "linear-gradient(to right,#181b0f 0%,#1b1c15 3%,#222323 6%,#282d2e 7%,#2b312f 9%,#32362b 10%,#38372b 10%,#4b362a 11%,#54362b 11%,#652e2d 12%,#722239 14%,#701d3e 15%,#6e1e44 17%,#691f4f 18%,#661d57 20%,#6f185f 22%,#7a1363 23%,#811365 24%,#821167 24%,#871169 24%,#8d106d 25%,#921372 27%,#921779 28%,#8f2081 29%,#8e2082 30%,#802d95 32%,#6b2ea8 33%,#622ab4 34%,#5827b8 34%,#5523bd 34%,#4c22c4 35%,#472ac9 36%,#4636ca 36%,#4638ca 37%,#3e48ca 37%,#3a64c7 39%,#3972be 39%,#3978bc 40%,#3686ae 40%,#378aa9 41%,#3c8ea0 41%,#48919d 41%,#53919b 41%,#608f9a 42%,#64889c 42%,#64859c 43%,#5d839d 44%,#339599 46%,#259b91 48%,#1ea488 49%,#1caf7f 49%,#1cb07a 50%,#1cb778 50%,#1cb975 50%,#24c762 51%,#2fc956 51%,#3cca50 52%,#46c94d 52%,#4ac948 52%,#8fbb3b 54%,#a9af3a 54%,#b5ad3a 54%,#b9a73a 55%,#c89e39 55%,#da8540 56%,#de7742 57%,#df6647 58%,#dc5b4a 58%,#dc5b4b 58%,#cf4f4d 59%,#9b454d 63%,#92454d 64%,#764654 66%,#6c4658 67%,#684558 67%,#64455b 67%,#554260 69%,#4e3b65 71%,#503567 73%,#592c69 74%,#73196c 77%,#77186c 77%,#7c146d 77%,#83116d 78%,#8b0d6e 79%,#9e036f 82%,#a3006f 85%,#a3006f 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-215.jpg/800px-Carcol-GTAOee-215.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-215.jpg/200px-Carcol-GTAOee-215.jpg"
+    },
+    {
+      "id": 216,
+      "name_en": "Red Prismatic Pearl",
+      "name_cn": "暗红棱镜珍珠",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 58750,
+      "unlock": "默认",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "available": true,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Red Prismatic Pearl",
+      "gradient": "linear-gradient(to right,#171b0c 0%,#171a0e 2%,#1a1c11 4%,#1d2317 6%,#1f281c 6%,#24341a 9%,#2e3712 10%,#473610 11%,#592f10 12%,#5d2913 13%,#632416 13%,#641f17 14%,#5e1e19 16%,#5a1f1d 18%,#551f22 19%,#531c25 21%,#551924 22%,#671017 24%,#6f1218 26%,#711926 28%,#6f202f 29%,#6c2744 31%,#682d56 32%,#5a2e78 33%,#512a86 34%,#4d278e 34%,#45229a 35%,#3e22a2 35%,#3e24a6 36%,#3c2bab 36%,#3b38ad 37%,#3548b1 37%,#3264b2 39%,#3172ab 39%,#3178a9 40%,#31869e 40%,#318a9a 41%,#338c94 41%,#3b9192 41%,#45918f 41%,#5b8f8e 42%,#608890 42%,#5c8395 43%,#4d8696 44%,#379395 46%,#289991 47%,#249b8e 48%,#1da485 49%,#1bb078 50%,#1cb777 50%,#1cb971 50%,#1fc369 50%,#29c959 51%,#3bca4e 52%,#46c94c 52%,#4bc947 52%,#6fc33f 53%,#8fbb3b 54%,#b4ad3a 54%,#b8a73a 55%,#c1a239 55%,#d1953c 55%,#d48d3e 56%,#da8540 56%,#df6f45 57%,#df6647 58%,#dc5b4a 58%,#dc5b4b 58%,#cf4f4d 59%,#bc494c 61%,#9b454d 63%,#92454d 64%,#89454f 64%,#88454f 65%,#754653 66%,#624557 67%,#4e405a 70%,#4a3c59 71%,#493554 73%,#4c2c4a 74%,#51233f 75%,#571f38 76%,#581c37 76%,#5a1930 77%,#5e182b 77%,#611427 77%,#64111f 78%,#6b0b15 79%,#750204 83%,#770000 85%,#770000 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-216.jpg/800px-Carcol-GTAOee-216.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-216.jpg/200px-Carcol-GTAOee-216.jpg"
+    },
+    {
+      "id": 217,
+      "name_en": "Green Prismatic Pearl",
+      "name_cn": "暗绿棱镜",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Green Prismatic Pearl",
+      "gradient": "linear-gradient(to right,#141d0c 0%,#131d0e 2%,#132313 5%,#10351d 7%,#0f4218 10%,#114414 10%,#1c4511 11%,#23450f 11%,#38400f 12%,#3e3a13 13%,#413716 13%,#413417 14%,#3c3418 15%,#353419 16%,#32361b 17%,#273a20 19%,#233a22 19%,#1c3a25 21%,#183b22 22%,#114116 25%,#14481d 27%,#1d4e33 30%,#204f39 30%,#245044 31%,#284f64 32%,#274c72 33%,#274977 33%,#244383 34%,#244386 34%,#20408e 34%,#1e369a 35%,#1b36a3 35%,#1d3cab 36%,#1d4faf 37%,#1b54b1 37%,#1a5bb1 37%,#1b64b2 38%,#1c72b2 39%,#1f7cac 39%,#1f82ac 39%,#22949a 41%,#259594 41%,#2e9992 41%,#4a988e 42%,#50978e 42%,#51918e 42%,#568e90 42%,#558995 43%,#478a96 44%,#428c96 45%,#379395 46%,#239b90 47%,#1ca28a 48%,#19aa81 49%,#19b677 50%,#19b971 50%,#1dc469 50%,#26c95c 51%,#3acb4e 52%,#44ca4c 52%,#48ca47 52%,#7ac23e 53%,#8bbc3b 54%,#a2b63a 54%,#a8b23a 54%,#b4ae3a 54%,#b8a83a 55%,#c79f39 55%,#cd9a3c 55%,#cf963c 55%,#d48e3e 56%,#d68c3e 56%,#dd7c42 56%,#de6047 58%,#dc5a4b 58%,#cf4f4d 59%,#bd494c 61%,#9b454d 63%,#834650 65%,#5b4758 68%,#4d455a 69%,#3a4157 72%,#2d3e4a 74%,#213d38 76%,#1d3d37 76%,#143d23 78%,#0b3f12 80%,#054004 83%,#034000 85%,#034000 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-217.jpg/800px-Carcol-GTAOee-217.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-217.jpg/200px-Carcol-GTAOee-217.jpg"
+    },
+    {
+      "id": 218,
+      "name_en": "Black Prismatic Pearl",
+      "name_cn": "黑棱镜珍珠",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 65000,
+      "unlock": "默认",
+      "purchase": {
+        "wheel": false,
+        "body": true,
+        "pearlescent": false
+      },
+      "available": true,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Black Prismatic Pearl",
+      "gradient": "linear-gradient(to right,#131b0c 0%,#131c11 4%,#112317 6%,#11281c 6%,#102c1d 7%,#0f3518 10%,#183711 11%,#2a3610 11%,#37300f 12%,#3d2913 13%,#402416 14%,#3f2017 14%,#381d18 15%,#2c1f1d 18%,#1d1e24 20%,#171924 22%,#0e1016 25%,#0e1217 26%,#13151d 27%,#151926 28%,#1a202f 29%,#222744 31%,#262d57 32%,#262f5e 32%,#262e72 33%,#262e77 33%,#232a83 34%,#232a86 34%,#1f278e 34%,#1d229a 35%,#1a24a6 36%,#1c2aab 36%,#1d36ad 36%,#1d41ae 37%,#1a48b1 37%,#1c64b2 39%,#1e76ab 39%,#1f889b 40%,#218a9a 41%,#248c94 41%,#35918f 41%,#4a908e 42%,#558890 42%,#548495 43%,#518395 44%,#458696 44%,#379195 46%,#279793 47%,#1ba287 48%,#19b078 50%,#19b777 50%,#19b971 50%,#1dc369 50%,#25c85c 51%,#3aca4e 52%,#44c94c 52%,#48c947 52%,#67c440 53%,#6ec33f 53%,#8ebb3b 54%,#95b83a 54%,#a2b33a 54%,#a8af3a 54%,#b4ad3a 54%,#c79e39 55%,#d48d3e 56%,#dd7d42 56%,#df6f44 57%,#dd5d49 58%,#dc5b4b 58%,#d4514c 59%,#bd494c 61%,#9b454d 63%,#834550 65%,#544459 68%,#3d3c59 71%,#353554 73%,#2a2a47 75%,#262846 75%,#25253f 75%,#1d1c37 76%,#1a1930 77%,#18182b 77%,#141427 77%,#131323 78%,#090a12 80%,#020204 83%,#000000 85%,#000000 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-218.jpg/800px-Carcol-GTAOee-218.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-218.jpg/200px-Carcol-GTAOee-218.jpg"
+    },
+    {
+      "id": 219,
+      "name_en": "Black Oil Spill Prismatic",
+      "name_cn": "黑油污",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Black Oil Spill Prismatic",
+      "gradient": "linear-gradient(to right,#060606 0%,#060607 15%,#0a0a0e 20%,#10101a 24%,#191723 27%,#221c26 30%,#342026 34%,#3e2026 35%,#4e2524 39%,#582f22 41%,#563920 43%,#474722 46%,#3e4a23 47%,#3a4d24 47%,#2b5029 49%,#27512e 49%,#1c4f34 51%,#194b3c 53%,#193f48 58%,#122d4b 62%,#102649 64%,#0f1c42 66%,#0f1c3e 66%,#0e1534 68%,#0c0e1a 72%,#0a0c11 75%,#16120c 86%,#0c150b 92%,#090e08 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-219.jpg/800px-Carcol-GTAOee-219.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-219.jpg/200px-Carcol-GTAOee-219.jpg"
+    },
+    {
+      "id": 220,
+      "name_en": "Black Rainbow Prismatic",
+      "name_cn": "黑彩虹",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Black Rainbow Prismatic",
+      "gradient": "linear-gradient(to right,#060606 0%,#060606 12%,#090609 16%,#0d080b 19%,#211219 26%,#2a1f19 30%,#2b231a 31%,#2e2619 32%,#312e1a 32%,#35331a 33%,#35371a 34%,#383d19 35%,#3b4618 36%,#395617 39%,#325a19 41%,#255723 44%,#1e4f3a 47%,#1c4647 48%,#18394f 50%,#162753 51%,#1a1955 54%,#231155 56%,#2e0c55 58%,#320b56 58%,#410655 61%,#45044d 64%,#420445 66%,#360533 69%,#320531 69%,#21071e 72%,#140a12 76%,#0f100c 81%,#0a170e 87%,#071214 94%,#070e0c 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-220.jpg/800px-Carcol-GTAOee-220.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-220.jpg/200px-Carcol-GTAOee-220.jpg"
+    },
+    {
+      "id": 221,
+      "name_en": "Dark Holographic",
+      "name_cn": "暗全息",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Dark Holographic",
+      "gradient": "linear-gradient(to right,#292410 0%,#2b2113 1%,#281e14 2%,#1b1e1c 5%,#161b1d 7%,#161f23 10%,#1f2e3f 12%,#203053 14%,#1d2d5f 14%,#1d2e63 15%,#1f3368 15%,#1f3968 15%,#1f486b 16%,#224d6c 16%,#235c67 17%,#235f61 18%,#2c625e 18%,#3b625e 19%,#3f5e60 19%,#366361 21%,#31685f 22%,#2d6a5c 23%,#2d6f56 23%,#2e7750 24%,#357b44 25%,#407a3c 25%,#537839 26%,#6f6c36 26%,#726b37 27%,#786637 27%,#7f5d38 27%,#814d3b 28%,#814d3b 28%,#7e433e 29%,#62393f 32%,#573844 33%,#4b3849 34%,#3e3651 36%,#3a3553 36%,#2f3462 39%,#2a3873 41%,#263d81 42%,#265193 45%,#275495 46%,#2c6a99 48%,#328197 51%,#36958a 55%,#3b9b81 56%,#3b9d7d 56%,#3da07c 57%,#3fa078 57%,#47a371 59%,#5fa360 61%,#859853 64%,#9a884c 65%,#9a884c 66%,#9e844b 66%,#ab754a 68%,#ac6c4a 68%,#aa5c4b 71%,#954c4f 74%,#5d3e52 79%,#46364e 82%,#342e46 84%,#2b283e 86%,#29253a 86%,#232135 87%,#211f31 88%,#1d1c2e 89%,#181729 89%,#181726 90%,#151424 90%,#0d0c17 92%,#040408 96%,#010102 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-221.jpg/800px-Carcol-GTAOee-221.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-221.jpg/200px-Carcol-GTAOee-221.jpg"
+    },
+    {
+      "id": 222,
+      "name_en": "Light Holographic",
+      "name_cn": "亮全息",
+      "hex": "",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "price": 0,
+      "unlock": "隐藏",
+      "purchase": {
+        "wheel": false,
+        "body": false,
+        "pearlescent": false
+      },
+      "available": false,
+      "category": "Chameleon",
+      "texture": "Chameleon",
+      "technical": "Light Holographic",
+      "gradient": "linear-gradient(to right,#7d7a6c 0%,#7e786e 1%,#787269 2%,#746e68 2%,#716d66 3%,#6d6964 3%,#64655f 4%,#525755 5%,#525655 6%,#505250 6%,#3c4241 8%,#383d3e 8%,#353b3b 8%,#2e3538 9%,#253039 11%,#23303a 11%,#203046 13%,#203053 14%,#1d2d5f 14%,#1d2e63 15%,#1f3368 15%,#1f3968 15%,#1f486b 16%,#224d6c 16%,#23546a 17%,#235f65 18%,#235f61 18%,#2c625e 18%,#3b625e 19%,#3e5f5e 19%,#3e5d61 20%,#31685f 22%,#2e685e 22%,#2d6f56 23%,#2e7750 24%,#357b44 25%,#427a3c 25%,#4d793b 26%,#567539 26%,#597539 26%,#746b36 27%,#7d6238 27%,#81543b 28%,#81513b 29%,#81493d 29%,#80473d 30%,#713c3d 31%,#62393f 32%,#533845 35%,#4b3848 35%,#3b3652 37%,#2f3462 41%,#2a366f 42%,#273c7d 44%,#25488d 46%,#2b6599 50%,#307699 53%,#338692 56%,#338a92 56%,#3c9e7d 61%,#3e9f79 61%,#44a274 62%,#47a370 63%,#55a466 65%,#61a361 65%,#69a05d 66%,#799d56 68%,#859651 69%,#899251 69%,#8b9250 69%,#928e4d 70%,#a37e4b 72%,#a57b4a 72%,#a8734a 73%,#a7634d 76%,#a5604e 76%,#9f5d53 77%,#9e5e53 78%,#9b5f5c 79%,#9a645f 80%,#9a6663 81%,#9a6766 81%,#9e7978 84%,#a27e80 84%,#a48587 85%,#a7898b 85%,#a88d8f 86%,#ab9093 86%,#b09b9e 87%,#b39ea2 88%,#b39ea2 88%,#b9a8ac 89%,#bbaeb0 90%,#c0b3b8 90%,#c5bdbf 92%,#c9c4c7 95%,#c4c0c5 100%);color:var(--gtawiki-text-uni-white)",
+      "notes": "[E&E]",
+      "car_image": "https://gta.wiki/images/thumb/Carcol-GTAOee-222.jpg/800px-Carcol-GTAOee-222.jpg",
+      "car_image_thumb": "https://gta.wiki/images/thumb/Carcol-GTAOee-222.jpg/200px-Carcol-GTAOee-222.jpg"
+    }
+  ]
+}

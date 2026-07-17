@@ -5,7 +5,12 @@ import random
 import socket
 from typing import Any
 
-from .gtaonline_helper import name_to_rid
+
+async def name_to_rid(name: str) -> int:
+    """Convert player name to Rockstar ID using local scapi."""
+    loop = asyncio.get_running_loop()
+    from .services import scapi
+    return await loop.run_in_executor(None, scapi.name_to_rid, name)
 
 BATTLEYE_SERVER_HOST = "51.89.97.102"
 BATTLEYE_SERVER_PORT = 61455

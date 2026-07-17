@@ -1,72 +1,12 @@
-"""调用 SocialClub Query API 获取玩家数据。
+"""格式化输出层：将查询结果转换为 QQ 消息文本。
 
-替代 HQSHI（空桑）作为数据源，直接使用自建的 REST API。
-API 地址可通过 set_api_base_url() 配置，默认 localhost:8686。
+认证/查询/缓存已由 services/ 内嵌接管，本模块仅负责格式化。
 """
 from __future__ import annotations
 
 import json
 import os
 from typing import Any, Dict, Optional
-
-import aiohttp
-
-_API_BASE = "http://localhost:8686"
-
-
-def set_api_base_url(url: str) -> None:
-    """配置 API 地址（由插件初始化时从 config 读取）。"""
-    global _API_BASE
-    _API_BASE = url.rstrip("/")
-
-
-class ApiError(RuntimeError):
-    pass
-
-
-async def _get(endpoint: str, timeout: int = 30) -> Dict[str, Any]:
-    """GET 请求本地 API，返回 JSON body。"""
-    url = f"{_API_BASE}{endpoint}"
-    try:
-        async with aiohttp.ClientSession() as session:
-            async with session.get(url, timeout=aiohttp.ClientTimeout(total=timeout)) as resp:
-                data = await resp.json()
-                if data.get("code") != 200:
-                    raise ApiError(data.get("message", f"HTTP {resp.status}"))
-                body = data.get("body") or {}
-                return body
-    except aiohttp.ClientError as e:
-        raise ApiError(f"API 连接失败: {e}") from e
-
-
-async def check_health() -> Dict[str, Any]:
-    """健康检查。"""
-    url = f"{_API_BASE}/health"
-    async with aiohttp.ClientSession() as session:
-        async with session.get(url, timeout=aiohttp.ClientTimeout(total=5)) as resp:
-            return await resp.json()
-
-
-async def query_player(nickname: str, force: bool = False) -> Dict[str, Any]:
-    """查询玩家完整数据：资料 + 等级金钱 + 深度统计。"""
-    force_str = "&force=true" if force else ""
-    return await _get(f"/api/player?nickname={nickname}{force_str}")
-
-
-async def query_profile(nickname: str) -> Dict[str, Any]:
-    """仅查询基础资料。"""
-    return await _get(f"/api/player/profile?nickname={nickname}")
-
-
-async def query_stats(nickname: str) -> Dict[str, Any]:
-    """仅查询深度统计。"""
-    return await _get(f"/api/player/stats?nickname={nickname}")
-
-
-async def query_awards(nickname: str, category: str = "") -> Dict[str, Any]:
-    """查询奖章数据。category 为空则全部，否则只查指定分类。"""
-    cat_str = f"&category={category}" if category else ""
-    return await _get(f"/api/player/awards?nickname={nickname}{cat_str}")
 
 
 # ---- 奖章中英映射 ----

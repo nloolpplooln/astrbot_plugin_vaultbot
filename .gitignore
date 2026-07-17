@@ -1,6 +1,9 @@
-images/
-*.pyc
 __pycache__/
-images/
 *.pyc
-__pycache__/
+*.pyo
+data/socialclub.db
+data/browser_profile/
+data/screenshots/
+*.db-shm
+*.db-wal
+.DS_Store
